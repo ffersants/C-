@@ -1,0 +1,16 @@
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Variáveis e operações\bin\Debug\net5.0\Variáveis e operações.exe
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Variáveis e operações\bin\Debug\net5.0\Variáveis e operações.deps.json
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Variáveis e operações\bin\Debug\net5.0\Variáveis e operações.runtimeconfig.json
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Variáveis e operações\bin\Debug\net5.0\Variáveis e operações.runtimeconfig.dev.json
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Variáveis e operações\bin\Debug\net5.0\Variáveis e operações.dll
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Variáveis e operações\bin\Debug\net5.0\ref\Variáveis e operações.dll
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Variáveis e operações\bin\Debug\net5.0\Variáveis e operações.pdb
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Variáveis e operações\obj\Debug\net5.0\Variáveis e operações.csprojAssemblyReference.cache
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Variáveis e operações\obj\Debug\net5.0\Variáveis e operações.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Variáveis e operações\obj\Debug\net5.0\Variáveis e operações.AssemblyInfoInputs.cache
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Variáveis e operações\obj\Debug\net5.0\Variáveis e operações.AssemblyInfo.cs
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Variáveis e operações\obj\Debug\net5.0\Variáveis e operações.csproj.CoreCompileInputs.cache
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Variáveis e operações\obj\Debug\net5.0\Variáveis e operações.dll
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Variáveis e operações\obj\Debug\net5.0\ref\Variáveis e operações.dll
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Variáveis e operações\obj\Debug\net5.0\Variáveis e operações.pdb
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Variáveis e operações\obj\Debug\net5.0\Variáveis e operações.genruntimeconfig.cache

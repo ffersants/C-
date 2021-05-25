@@ -1,0 +1,16 @@
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Terminal application\bin\Debug\net5.0\Terminal application.exe
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Terminal application\bin\Debug\net5.0\Terminal application.deps.json
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Terminal application\bin\Debug\net5.0\Terminal application.runtimeconfig.json
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Terminal application\bin\Debug\net5.0\Terminal application.runtimeconfig.dev.json
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Terminal application\bin\Debug\net5.0\Terminal application.dll
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Terminal application\bin\Debug\net5.0\ref\Terminal application.dll
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Terminal application\bin\Debug\net5.0\Terminal application.pdb
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Terminal application\obj\Debug\net5.0\Terminal application.csprojAssemblyReference.cache
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Terminal application\obj\Debug\net5.0\Terminal application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Terminal application\obj\Debug\net5.0\Terminal application.AssemblyInfoInputs.cache
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Terminal application\obj\Debug\net5.0\Terminal application.AssemblyInfo.cs
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Terminal application\obj\Debug\net5.0\Terminal application.csproj.CoreCompileInputs.cache
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Terminal application\obj\Debug\net5.0\Terminal application.dll
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Terminal application\obj\Debug\net5.0\ref\Terminal application.dll
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Terminal application\obj\Debug\net5.0\Terminal application.pdb
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Terminal application\obj\Debug\net5.0\Terminal application.genruntimeconfig.cache

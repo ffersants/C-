@@ -1,0 +1,16 @@
+C:\Users\DheyEs\Documents\C#\Class and objects\obj\Debug\net5.0\Class and objects.csprojAssemblyReference.cache
+C:\Users\DheyEs\Documents\C#\Class and objects\obj\Debug\net5.0\Class and objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DheyEs\Documents\C#\Class and objects\obj\Debug\net5.0\Class and objects.AssemblyInfoInputs.cache
+C:\Users\DheyEs\Documents\C#\Class and objects\obj\Debug\net5.0\Class and objects.AssemblyInfo.cs
+C:\Users\DheyEs\Documents\C#\Class and objects\obj\Debug\net5.0\Class and objects.csproj.CoreCompileInputs.cache
+C:\Users\DheyEs\Documents\C#\Class and objects\bin\Debug\net5.0\Class and objects.exe
+C:\Users\DheyEs\Documents\C#\Class and objects\bin\Debug\net5.0\Class and objects.deps.json
+C:\Users\DheyEs\Documents\C#\Class and objects\bin\Debug\net5.0\Class and objects.runtimeconfig.json
+C:\Users\DheyEs\Documents\C#\Class and objects\bin\Debug\net5.0\Class and objects.runtimeconfig.dev.json
+C:\Users\DheyEs\Documents\C#\Class and objects\bin\Debug\net5.0\Class and objects.dll
+C:\Users\DheyEs\Documents\C#\Class and objects\bin\Debug\net5.0\ref\Class and objects.dll
+C:\Users\DheyEs\Documents\C#\Class and objects\bin\Debug\net5.0\Class and objects.pdb
+C:\Users\DheyEs\Documents\C#\Class and objects\obj\Debug\net5.0\Class and objects.dll
+C:\Users\DheyEs\Documents\C#\Class and objects\obj\Debug\net5.0\ref\Class and objects.dll
+C:\Users\DheyEs\Documents\C#\Class and objects\obj\Debug\net5.0\Class and objects.pdb
+C:\Users\DheyEs\Documents\C#\Class and objects\obj\Debug\net5.0\Class and objects.genruntimeconfig.cache
