@@ -1,0 +1,16 @@
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Projeto para professor\bin\Debug\net5.0\Projeto para professor.exe
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Projeto para professor\bin\Debug\net5.0\Projeto para professor.deps.json
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Projeto para professor\bin\Debug\net5.0\Projeto para professor.runtimeconfig.json
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Projeto para professor\bin\Debug\net5.0\Projeto para professor.runtimeconfig.dev.json
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Projeto para professor\bin\Debug\net5.0\Projeto para professor.dll
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Projeto para professor\bin\Debug\net5.0\ref\Projeto para professor.dll
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Projeto para professor\bin\Debug\net5.0\Projeto para professor.pdb
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Projeto para professor\obj\Debug\net5.0\Projeto para professor.csprojAssemblyReference.cache
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Projeto para professor\obj\Debug\net5.0\Projeto para professor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Projeto para professor\obj\Debug\net5.0\Projeto para professor.AssemblyInfoInputs.cache
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Projeto para professor\obj\Debug\net5.0\Projeto para professor.AssemblyInfo.cs
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Projeto para professor\obj\Debug\net5.0\Projeto para professor.csproj.CoreCompileInputs.cache
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Projeto para professor\obj\Debug\net5.0\Projeto para professor.dll
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Projeto para professor\obj\Debug\net5.0\ref\Projeto para professor.dll
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Projeto para professor\obj\Debug\net5.0\Projeto para professor.pdb
+C:\Users\DheyEs\Documents\C#\Digital Innovation course\Projeto para professor\obj\Debug\net5.0\Projeto para professor.genruntimeconfig.cache
