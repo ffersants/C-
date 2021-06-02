@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Condicional, functions, logical operators e debugging/1.0.0": {
+        "runtime": {
+          "Condicional, functions, logical operators e debugging.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Condicional, functions, logical operators e debugging/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

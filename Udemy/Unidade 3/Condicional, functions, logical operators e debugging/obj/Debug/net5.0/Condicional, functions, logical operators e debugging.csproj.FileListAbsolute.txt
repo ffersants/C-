@@ -1,0 +1,16 @@
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 3\Condicional, functions, logical operators e debugging\bin\Debug\net5.0\Condicional, functions, logical operators e debugging.exe
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 3\Condicional, functions, logical operators e debugging\bin\Debug\net5.0\Condicional, functions, logical operators e debugging.deps.json
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 3\Condicional, functions, logical operators e debugging\bin\Debug\net5.0\Condicional, functions, logical operators e debugging.runtimeconfig.json
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 3\Condicional, functions, logical operators e debugging\bin\Debug\net5.0\Condicional, functions, logical operators e debugging.runtimeconfig.dev.json
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 3\Condicional, functions, logical operators e debugging\bin\Debug\net5.0\Condicional, functions, logical operators e debugging.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 3\Condicional, functions, logical operators e debugging\bin\Debug\net5.0\ref\Condicional, functions, logical operators e debugging.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 3\Condicional, functions, logical operators e debugging\bin\Debug\net5.0\Condicional, functions, logical operators e debugging.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 3\Condicional, functions, logical operators e debugging\obj\Debug\net5.0\Condicional, functions, logical operators e debugging.csprojAssemblyReference.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 3\Condicional, functions, logical operators e debugging\obj\Debug\net5.0\Condicional, functions, logical operators e debugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 3\Condicional, functions, logical operators e debugging\obj\Debug\net5.0\Condicional, functions, logical operators e debugging.AssemblyInfoInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 3\Condicional, functions, logical operators e debugging\obj\Debug\net5.0\Condicional, functions, logical operators e debugging.AssemblyInfo.cs
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 3\Condicional, functions, logical operators e debugging\obj\Debug\net5.0\Condicional, functions, logical operators e debugging.csproj.CoreCompileInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 3\Condicional, functions, logical operators e debugging\obj\Debug\net5.0\Condicional, functions, logical operators e debugging.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 3\Condicional, functions, logical operators e debugging\obj\Debug\net5.0\ref\Condicional, functions, logical operators e debugging.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 3\Condicional, functions, logical operators e debugging\obj\Debug\net5.0\Condicional, functions, logical operators e debugging.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 3\Condicional, functions, logical operators e debugging\obj\Debug\net5.0\Condicional, functions, logical operators e debugging.genruntimeconfig.cache
