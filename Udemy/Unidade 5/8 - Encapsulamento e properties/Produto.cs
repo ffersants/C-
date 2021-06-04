@@ -10,7 +10,7 @@ namespace _8___Encapsulamento_e_properties
     {
         private string nome;
         private double preco;
-        private int quantidade;
+        public int quantidade { get; private set;}
 
         public string Nome
         {
