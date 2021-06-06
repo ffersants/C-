@@ -1,0 +1,16 @@
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Aula 4 - Structs\bin\Debug\net5.0\Aula 4 - Structs.exe
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Aula 4 - Structs\bin\Debug\net5.0\Aula 4 - Structs.deps.json
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Aula 4 - Structs\bin\Debug\net5.0\Aula 4 - Structs.runtimeconfig.json
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Aula 4 - Structs\bin\Debug\net5.0\Aula 4 - Structs.runtimeconfig.dev.json
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Aula 4 - Structs\bin\Debug\net5.0\Aula 4 - Structs.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Aula 4 - Structs\bin\Debug\net5.0\ref\Aula 4 - Structs.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Aula 4 - Structs\bin\Debug\net5.0\Aula 4 - Structs.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Aula 4 - Structs\obj\Debug\net5.0\Aula 4 - Structs.csproj.AssemblyReference.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Aula 4 - Structs\obj\Debug\net5.0\Aula 4 - Structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Aula 4 - Structs\obj\Debug\net5.0\Aula 4 - Structs.AssemblyInfoInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Aula 4 - Structs\obj\Debug\net5.0\Aula 4 - Structs.AssemblyInfo.cs
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Aula 4 - Structs\obj\Debug\net5.0\Aula 4 - Structs.csproj.CoreCompileInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Aula 4 - Structs\obj\Debug\net5.0\Aula 4 - Structs.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Aula 4 - Structs\obj\Debug\net5.0\ref\Aula 4 - Structs.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Aula 4 - Structs\obj\Debug\net5.0\Aula 4 - Structs.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Aula 4 - Structs\obj\Debug\net5.0\Aula 4 - Structs.genruntimeconfig.cache
