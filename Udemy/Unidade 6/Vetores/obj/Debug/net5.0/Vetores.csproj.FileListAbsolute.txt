@@ -1,0 +1,15 @@
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Vetores\bin\Debug\net5.0\Vetores.exe
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Vetores\bin\Debug\net5.0\Vetores.deps.json
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Vetores\bin\Debug\net5.0\Vetores.runtimeconfig.json
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Vetores\bin\Debug\net5.0\Vetores.runtimeconfig.dev.json
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Vetores\bin\Debug\net5.0\Vetores.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Vetores\bin\Debug\net5.0\ref\Vetores.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Vetores\bin\Debug\net5.0\Vetores.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Vetores\obj\Debug\net5.0\Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Vetores\obj\Debug\net5.0\Vetores.AssemblyInfoInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Vetores\obj\Debug\net5.0\Vetores.AssemblyInfo.cs
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Vetores\obj\Debug\net5.0\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Vetores\obj\Debug\net5.0\Vetores.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Vetores\obj\Debug\net5.0\ref\Vetores.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Vetores\obj\Debug\net5.0\Vetores.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Vetores\obj\Debug\net5.0\Vetores.genruntimeconfig.cache
