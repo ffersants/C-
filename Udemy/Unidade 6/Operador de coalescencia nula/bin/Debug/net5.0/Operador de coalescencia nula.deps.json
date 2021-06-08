@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Operador de coalescencia nula/1.0.0": {
+        "runtime": {
+          "Operador de coalescencia nula.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Operador de coalescencia nula/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

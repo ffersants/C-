@@ -1,0 +1,15 @@
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Operador de coalescencia nula\bin\Debug\net5.0\Operador de coalescencia nula.exe
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Operador de coalescencia nula\bin\Debug\net5.0\Operador de coalescencia nula.deps.json
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Operador de coalescencia nula\bin\Debug\net5.0\Operador de coalescencia nula.runtimeconfig.json
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Operador de coalescencia nula\bin\Debug\net5.0\Operador de coalescencia nula.runtimeconfig.dev.json
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Operador de coalescencia nula\bin\Debug\net5.0\Operador de coalescencia nula.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Operador de coalescencia nula\bin\Debug\net5.0\ref\Operador de coalescencia nula.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Operador de coalescencia nula\bin\Debug\net5.0\Operador de coalescencia nula.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Operador de coalescencia nula\obj\Debug\net5.0\Operador de coalescencia nula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Operador de coalescencia nula\obj\Debug\net5.0\Operador de coalescencia nula.AssemblyInfoInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Operador de coalescencia nula\obj\Debug\net5.0\Operador de coalescencia nula.AssemblyInfo.cs
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Operador de coalescencia nula\obj\Debug\net5.0\Operador de coalescencia nula.csproj.CoreCompileInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Operador de coalescencia nula\obj\Debug\net5.0\Operador de coalescencia nula.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Operador de coalescencia nula\obj\Debug\net5.0\ref\Operador de coalescencia nula.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Operador de coalescencia nula\obj\Debug\net5.0\Operador de coalescencia nula.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Operador de coalescencia nula\obj\Debug\net5.0\Operador de coalescencia nula.genruntimeconfig.cache
