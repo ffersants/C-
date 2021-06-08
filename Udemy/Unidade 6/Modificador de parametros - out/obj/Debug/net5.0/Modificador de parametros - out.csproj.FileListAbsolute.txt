@@ -1,0 +1,16 @@
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Modificador de parametros - out\bin\Debug\net5.0\Modificador de parametros - out.exe
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Modificador de parametros - out\bin\Debug\net5.0\Modificador de parametros - out.deps.json
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Modificador de parametros - out\bin\Debug\net5.0\Modificador de parametros - out.runtimeconfig.json
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Modificador de parametros - out\bin\Debug\net5.0\Modificador de parametros - out.runtimeconfig.dev.json
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Modificador de parametros - out\bin\Debug\net5.0\Modificador de parametros - out.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Modificador de parametros - out\bin\Debug\net5.0\ref\Modificador de parametros - out.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Modificador de parametros - out\bin\Debug\net5.0\Modificador de parametros - out.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Modificador de parametros - out\obj\Debug\net5.0\Modificador de parametros - out.csproj.AssemblyReference.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Modificador de parametros - out\obj\Debug\net5.0\Modificador de parametros - out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Modificador de parametros - out\obj\Debug\net5.0\Modificador de parametros - out.AssemblyInfoInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Modificador de parametros - out\obj\Debug\net5.0\Modificador de parametros - out.AssemblyInfo.cs
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Modificador de parametros - out\obj\Debug\net5.0\Modificador de parametros - out.csproj.CoreCompileInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Modificador de parametros - out\obj\Debug\net5.0\Modificador de parametros - out.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Modificador de parametros - out\obj\Debug\net5.0\ref\Modificador de parametros - out.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Modificador de parametros - out\obj\Debug\net5.0\Modificador de parametros - out.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Modificador de parametros - out\obj\Debug\net5.0\Modificador de parametros - out.genruntimeconfig.cache
