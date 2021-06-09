@@ -18,5 +18,10 @@ namespace Lista_exercise
             this.name = name;
             this.salaray = salaray;
         }
+        public void increaseSalary(double percentage)
+        {
+            this.salaray = this.salaray + percentage / 100 * this.salaray;
+        }
     }
+
 }
