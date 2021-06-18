@@ -1,0 +1,16 @@
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 11\Lidando com exceptions\bin\Debug\net5.0\Lidando com exceptions.exe
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 11\Lidando com exceptions\bin\Debug\net5.0\Lidando com exceptions.deps.json
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 11\Lidando com exceptions\bin\Debug\net5.0\Lidando com exceptions.runtimeconfig.json
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 11\Lidando com exceptions\bin\Debug\net5.0\Lidando com exceptions.runtimeconfig.dev.json
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 11\Lidando com exceptions\bin\Debug\net5.0\Lidando com exceptions.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 11\Lidando com exceptions\bin\Debug\net5.0\ref\Lidando com exceptions.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 11\Lidando com exceptions\bin\Debug\net5.0\Lidando com exceptions.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 11\Lidando com exceptions\obj\Debug\net5.0\Lidando com exceptions.csproj.AssemblyReference.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 11\Lidando com exceptions\obj\Debug\net5.0\Lidando com exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 11\Lidando com exceptions\obj\Debug\net5.0\Lidando com exceptions.AssemblyInfoInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 11\Lidando com exceptions\obj\Debug\net5.0\Lidando com exceptions.AssemblyInfo.cs
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 11\Lidando com exceptions\obj\Debug\net5.0\Lidando com exceptions.csproj.CoreCompileInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 11\Lidando com exceptions\obj\Debug\net5.0\Lidando com exceptions.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 11\Lidando com exceptions\obj\Debug\net5.0\ref\Lidando com exceptions.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 11\Lidando com exceptions\obj\Debug\net5.0\Lidando com exceptions.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 11\Lidando com exceptions\obj\Debug\net5.0\Lidando com exceptions.genruntimeconfig.cache
