@@ -10,7 +10,7 @@ namespace Projeto_Xadrez
             Tabuleiro tab;
 
             tab = new Tabuleiro(8, 8);
-            Console.ReadLine();
+            Tela.imprimirTabuleiro(tab);
         }
     }
 }
