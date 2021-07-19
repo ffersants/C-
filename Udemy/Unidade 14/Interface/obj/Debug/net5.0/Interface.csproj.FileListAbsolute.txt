@@ -1,0 +1,16 @@
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 14\Interface\obj\Debug\net5.0\Interface.csproj.AssemblyReference.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 14\Interface\obj\Debug\net5.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 14\Interface\obj\Debug\net5.0\Interface.AssemblyInfoInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 14\Interface\obj\Debug\net5.0\Interface.AssemblyInfo.cs
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 14\Interface\obj\Debug\net5.0\Interface.csproj.CoreCompileInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 14\Interface\bin\Debug\net5.0\Interface.exe
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 14\Interface\bin\Debug\net5.0\Interface.deps.json
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 14\Interface\bin\Debug\net5.0\Interface.runtimeconfig.json
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 14\Interface\bin\Debug\net5.0\Interface.runtimeconfig.dev.json
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 14\Interface\bin\Debug\net5.0\Interface.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 14\Interface\bin\Debug\net5.0\ref\Interface.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 14\Interface\bin\Debug\net5.0\Interface.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 14\Interface\obj\Debug\net5.0\Interface.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 14\Interface\obj\Debug\net5.0\ref\Interface.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 14\Interface\obj\Debug\net5.0\Interface.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 14\Interface\obj\Debug\net5.0\Interface.genruntimeconfig.cache
