@@ -10,14 +10,15 @@ namespace Interface.Entities.Services
     {
         public double pricePerHour { get; private set; }
         public double pricePerDay { get; private set; }
-
-        public RentalService(double pricePerHour, double pricePerDay)
+        private ITaxService _taxService;
+        public RentalService(double pricePerHour, double pricePerDay, ITaxService taxService)
         {
             this.pricePerHour = pricePerHour;
             this.pricePerDay = pricePerDay;
+            this._taxService = taxService;
         }
 
-        private BrazilTaxServices _brazilTaxServices = new BrazilTaxServices();
+        
         public void ProcessInvoice(CarRental carRental)
         {
             TimeSpan durantion = carRental.finish.Subtract(carRental.start);
@@ -32,7 +33,7 @@ namespace Interface.Entities.Services
                 basicPayment = pricePerDay * Math.Ceiling(durantion.TotalDays);
             }
 
-            double tax = _brazilTaxServices.Tax(basicPayment);
+            double tax = _taxService.Tax(basicPayment);
 
             carRental.invoice = new Invoice(basicPayment, tax);
 
