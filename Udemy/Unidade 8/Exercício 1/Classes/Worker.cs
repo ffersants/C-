@@ -12,15 +12,13 @@ namespace Exercício_1.Classes
         public string Name { get; private set; }
         public WorkerLevel Level { get; private set; }
         public double BaseSalary { get; private set; }
-
+        List<HourContract> allContracts = new List<HourContract>();
         public Worker(string name, WorkerLevel level, double baseSalary)
         {
             Name = name;
             Level = level;
             BaseSalary = baseSalary;
         }
-
-        List<HourContract> allContracts = new List<HourContract>();
 
         public void addContract(DateTime date, double valuePerHour, int hours)
         {

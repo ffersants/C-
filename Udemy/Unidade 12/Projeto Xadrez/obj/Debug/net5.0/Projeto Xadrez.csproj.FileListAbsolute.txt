@@ -1,4 +1,3 @@
-C:\Users\DheyEs\Documents\C#\Udemy\Unidade 12\Projeto Xadrez\obj\Debug\net5.0\Projeto Xadrez.csproj.AssemblyReference.cache
 C:\Users\DheyEs\Documents\C#\Udemy\Unidade 12\Projeto Xadrez\obj\Debug\net5.0\Projeto Xadrez.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\DheyEs\Documents\C#\Udemy\Unidade 12\Projeto Xadrez\obj\Debug\net5.0\Projeto Xadrez.AssemblyInfoInputs.cache
 C:\Users\DheyEs\Documents\C#\Udemy\Unidade 12\Projeto Xadrez\obj\Debug\net5.0\Projeto Xadrez.AssemblyInfo.cs

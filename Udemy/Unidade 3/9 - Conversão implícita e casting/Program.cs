@@ -13,7 +13,7 @@ namespace Conversão_implícita_e_casting
 
             //não é possível converter implicitamente, logo, deve-se realizar um casting
             double x = 50;
-            int y = (int)x;
+            int y = x as int;
             Console.WriteLine(y);
 
             //divisão entre inteiros resulta em inteiro
