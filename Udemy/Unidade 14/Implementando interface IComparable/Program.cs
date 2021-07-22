@@ -12,14 +12,13 @@ namespace Implementando_interface_IComparable
             using (StreamReader sr = File.OpenText(path)) 
             {
 
-                List<string> Pessoas = new List<string>();
+                List<Servidor> Pessoas = new List<Servidor>();
                 while (!sr.EndOfStream)
                 {
-                    Pessoas.Add(sr.ReadLine());
+                    Pessoas.Add(new Servidor(sr.ReadLine()));
                 }
                 Pessoas.Sort();
-                Pessoas.ForEach(i => Console.Write("{0}\n", i));
-
+                Pessoas.ForEach(i => Console.WriteLine(i.ToString()));
             }
         }
     }

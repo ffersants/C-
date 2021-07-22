@@ -1,7 +1,7 @@
-Fernando
-Amanda
-Ricardo
-Joao
-Felipe
-Paula
-Cleia
+Fernando,4000
+Amanda,3500
+Ricardo,7000
+Joao,10000
+Felipe,15000
+Paula,2000
+Cleia,1500
