@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\Unidade 16\\Predicate - Método removeAll()\\Predicate - Método removeAll().csproj": {}
+    "C:\\Users\\DheyEs\\Documents\\C#\\Testing Nancy\\Testing Nancy\\Testing Nancy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\Unidade 16\\Predicate - Método removeAll()\\Predicate - Método removeAll().csproj": {
+    "C:\\Users\\DheyEs\\Documents\\C#\\Testing Nancy\\Testing Nancy\\Testing Nancy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\Unidade 16\\Predicate - Método removeAll()\\Predicate - Método removeAll().csproj",
-        "projectName": "Predicate - Método removeAll()",
-        "projectPath": "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\Unidade 16\\Predicate - Método removeAll()\\Predicate - Método removeAll().csproj",
+        "projectUniqueName": "C:\\Users\\DheyEs\\Documents\\C#\\Testing Nancy\\Testing Nancy\\Testing Nancy.csproj",
+        "projectName": "Testing Nancy",
+        "projectPath": "C:\\Users\\DheyEs\\Documents\\C#\\Testing Nancy\\Testing Nancy\\Testing Nancy.csproj",
         "packagesPath": "C:\\Users\\DheyEs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\Unidade 16\\Predicate - Método removeAll()\\obj\\",
+        "outputPath": "C:\\Users\\DheyEs\\Documents\\C#\\Testing Nancy\\Testing Nancy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DheyEs\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,22 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Nancy": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Nancy.BootStrappers.StructureMap": {
+              "target": "Package",
+              "version": "[1.4.3, )"
+            },
+            "Nancy.Hosting.Self": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -50,6 +64,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

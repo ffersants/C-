@@ -1,0 +1,5 @@
+C:\Users\DheyEs\Documents\C#\Testing Nancy\Testing Nancy\obj\Debug\netcoreapp3.1\Testing Nancy.csproj.AssemblyReference.cache
+C:\Users\DheyEs\Documents\C#\Testing Nancy\Testing Nancy\obj\Debug\netcoreapp3.1\Testing Nancy.AssemblyInfoInputs.cache
+C:\Users\DheyEs\Documents\C#\Testing Nancy\Testing Nancy\obj\Debug\netcoreapp3.1\Testing Nancy.AssemblyInfo.cs
+C:\Users\DheyEs\Documents\C#\Testing Nancy\Testing Nancy\obj\Debug\netcoreapp3.1\Testing Nancy.csproj.CoreCompileInputs.cache
+C:\Users\DheyEs\Documents\C#\Testing Nancy\Testing Nancy\obj\Debug\netcoreapp3.1\Testing Nancy.MvcApplicationPartsAssemblyInfo.cache

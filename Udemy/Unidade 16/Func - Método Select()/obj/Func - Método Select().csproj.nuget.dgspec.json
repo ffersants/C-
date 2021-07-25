@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\Unidade 16\\Predicate - Método removeAll()\\Predicate - Método removeAll().csproj": {}
+    "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\Unidade 16\\Func - Método Select()\\Func - Método Select().csproj": {}
   },
   "projects": {
-    "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\Unidade 16\\Predicate - Método removeAll()\\Predicate - Método removeAll().csproj": {
+    "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\Unidade 16\\Func - Método Select()\\Func - Método Select().csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\Unidade 16\\Predicate - Método removeAll()\\Predicate - Método removeAll().csproj",
-        "projectName": "Predicate - Método removeAll()",
-        "projectPath": "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\Unidade 16\\Predicate - Método removeAll()\\Predicate - Método removeAll().csproj",
+        "projectUniqueName": "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\Unidade 16\\Func - Método Select()\\Func - Método Select().csproj",
+        "projectName": "Func - Método Select()",
+        "projectPath": "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\Unidade 16\\Func - Método Select()\\Func - Método Select().csproj",
         "packagesPath": "C:\\Users\\DheyEs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\Unidade 16\\Predicate - Método removeAll()\\obj\\",
+        "outputPath": "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\Unidade 16\\Func - Método Select()\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DheyEs\\AppData\\Roaming\\NuGet\\NuGet.Config",
