@@ -1,0 +1,16 @@
+C:\Users\DheyEs\Documents\C#\Tests\Sobrescrever um método herdado de superclasse\bin\Debug\net5.0\Sobrescrever um método herdado de superclasse.exe
+C:\Users\DheyEs\Documents\C#\Tests\Sobrescrever um método herdado de superclasse\bin\Debug\net5.0\Sobrescrever um método herdado de superclasse.deps.json
+C:\Users\DheyEs\Documents\C#\Tests\Sobrescrever um método herdado de superclasse\bin\Debug\net5.0\Sobrescrever um método herdado de superclasse.runtimeconfig.json
+C:\Users\DheyEs\Documents\C#\Tests\Sobrescrever um método herdado de superclasse\bin\Debug\net5.0\Sobrescrever um método herdado de superclasse.runtimeconfig.dev.json
+C:\Users\DheyEs\Documents\C#\Tests\Sobrescrever um método herdado de superclasse\bin\Debug\net5.0\Sobrescrever um método herdado de superclasse.dll
+C:\Users\DheyEs\Documents\C#\Tests\Sobrescrever um método herdado de superclasse\bin\Debug\net5.0\ref\Sobrescrever um método herdado de superclasse.dll
+C:\Users\DheyEs\Documents\C#\Tests\Sobrescrever um método herdado de superclasse\bin\Debug\net5.0\Sobrescrever um método herdado de superclasse.pdb
+C:\Users\DheyEs\Documents\C#\Tests\Sobrescrever um método herdado de superclasse\obj\Debug\net5.0\Sobrescrever um método herdado de superclasse.csproj.AssemblyReference.cache
+C:\Users\DheyEs\Documents\C#\Tests\Sobrescrever um método herdado de superclasse\obj\Debug\net5.0\Sobrescrever um método herdado de superclasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DheyEs\Documents\C#\Tests\Sobrescrever um método herdado de superclasse\obj\Debug\net5.0\Sobrescrever um método herdado de superclasse.AssemblyInfoInputs.cache
+C:\Users\DheyEs\Documents\C#\Tests\Sobrescrever um método herdado de superclasse\obj\Debug\net5.0\Sobrescrever um método herdado de superclasse.AssemblyInfo.cs
+C:\Users\DheyEs\Documents\C#\Tests\Sobrescrever um método herdado de superclasse\obj\Debug\net5.0\Sobrescrever um método herdado de superclasse.csproj.CoreCompileInputs.cache
+C:\Users\DheyEs\Documents\C#\Tests\Sobrescrever um método herdado de superclasse\obj\Debug\net5.0\Sobrescrever um método herdado de superclasse.dll
+C:\Users\DheyEs\Documents\C#\Tests\Sobrescrever um método herdado de superclasse\obj\Debug\net5.0\ref\Sobrescrever um método herdado de superclasse.dll
+C:\Users\DheyEs\Documents\C#\Tests\Sobrescrever um método herdado de superclasse\obj\Debug\net5.0\Sobrescrever um método herdado de superclasse.pdb
+C:\Users\DheyEs\Documents\C#\Tests\Sobrescrever um método herdado de superclasse\obj\Debug\net5.0\Sobrescrever um método herdado de superclasse.genruntimeconfig.cache
