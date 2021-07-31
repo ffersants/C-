@@ -1,0 +1,16 @@
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Open closed principle\bin\Debug\net5.0\Open closed principle.exe
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Open closed principle\bin\Debug\net5.0\Open closed principle.deps.json
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Open closed principle\bin\Debug\net5.0\Open closed principle.runtimeconfig.json
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Open closed principle\bin\Debug\net5.0\Open closed principle.runtimeconfig.dev.json
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Open closed principle\bin\Debug\net5.0\Open closed principle.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Open closed principle\bin\Debug\net5.0\ref\Open closed principle.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Open closed principle\bin\Debug\net5.0\Open closed principle.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Open closed principle\obj\Debug\net5.0\Open closed principle.csproj.AssemblyReference.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Open closed principle\obj\Debug\net5.0\Open closed principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Open closed principle\obj\Debug\net5.0\Open closed principle.AssemblyInfoInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Open closed principle\obj\Debug\net5.0\Open closed principle.AssemblyInfo.cs
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Open closed principle\obj\Debug\net5.0\Open closed principle.csproj.CoreCompileInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Open closed principle\obj\Debug\net5.0\Open closed principle.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Open closed principle\obj\Debug\net5.0\ref\Open closed principle.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Open closed principle\obj\Debug\net5.0\Open closed principle.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Open closed principle\obj\Debug\net5.0\Open closed principle.genruntimeconfig.cache
