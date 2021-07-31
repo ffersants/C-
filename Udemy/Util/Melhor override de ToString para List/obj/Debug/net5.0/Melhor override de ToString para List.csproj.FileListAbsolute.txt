@@ -1,0 +1,16 @@
+C:\Users\DheyEs\Documents\C#\Udemy\Util\Melhor override de ToString para List\bin\Debug\net5.0\Melhor override de ToString para List.exe
+C:\Users\DheyEs\Documents\C#\Udemy\Util\Melhor override de ToString para List\bin\Debug\net5.0\Melhor override de ToString para List.deps.json
+C:\Users\DheyEs\Documents\C#\Udemy\Util\Melhor override de ToString para List\bin\Debug\net5.0\Melhor override de ToString para List.runtimeconfig.json
+C:\Users\DheyEs\Documents\C#\Udemy\Util\Melhor override de ToString para List\bin\Debug\net5.0\Melhor override de ToString para List.runtimeconfig.dev.json
+C:\Users\DheyEs\Documents\C#\Udemy\Util\Melhor override de ToString para List\bin\Debug\net5.0\Melhor override de ToString para List.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Util\Melhor override de ToString para List\bin\Debug\net5.0\ref\Melhor override de ToString para List.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Util\Melhor override de ToString para List\bin\Debug\net5.0\Melhor override de ToString para List.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Util\Melhor override de ToString para List\obj\Debug\net5.0\Melhor override de ToString para List.csproj.AssemblyReference.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Util\Melhor override de ToString para List\obj\Debug\net5.0\Melhor override de ToString para List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DheyEs\Documents\C#\Udemy\Util\Melhor override de ToString para List\obj\Debug\net5.0\Melhor override de ToString para List.AssemblyInfoInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Util\Melhor override de ToString para List\obj\Debug\net5.0\Melhor override de ToString para List.AssemblyInfo.cs
+C:\Users\DheyEs\Documents\C#\Udemy\Util\Melhor override de ToString para List\obj\Debug\net5.0\Melhor override de ToString para List.csproj.CoreCompileInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Util\Melhor override de ToString para List\obj\Debug\net5.0\Melhor override de ToString para List.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Util\Melhor override de ToString para List\obj\Debug\net5.0\ref\Melhor override de ToString para List.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Util\Melhor override de ToString para List\obj\Debug\net5.0\Melhor override de ToString para List.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Util\Melhor override de ToString para List\obj\Debug\net5.0\Melhor override de ToString para List.genruntimeconfig.cache
