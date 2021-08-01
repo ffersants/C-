@@ -1,0 +1,16 @@
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Liskov Substitution Principle\bin\Debug\net5.0\Liskov Substitution Principle.exe
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Liskov Substitution Principle\bin\Debug\net5.0\Liskov Substitution Principle.deps.json
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Liskov Substitution Principle\bin\Debug\net5.0\Liskov Substitution Principle.runtimeconfig.json
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Liskov Substitution Principle\bin\Debug\net5.0\Liskov Substitution Principle.runtimeconfig.dev.json
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Liskov Substitution Principle\bin\Debug\net5.0\Liskov Substitution Principle.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Liskov Substitution Principle\bin\Debug\net5.0\ref\Liskov Substitution Principle.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Liskov Substitution Principle\bin\Debug\net5.0\Liskov Substitution Principle.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Liskov Substitution Principle\obj\Debug\net5.0\Liskov Substitution Principle.csproj.AssemblyReference.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Liskov Substitution Principle\obj\Debug\net5.0\Liskov Substitution Principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Liskov Substitution Principle\obj\Debug\net5.0\Liskov Substitution Principle.AssemblyInfoInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Liskov Substitution Principle\obj\Debug\net5.0\Liskov Substitution Principle.AssemblyInfo.cs
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Liskov Substitution Principle\obj\Debug\net5.0\Liskov Substitution Principle.csproj.CoreCompileInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Liskov Substitution Principle\obj\Debug\net5.0\Liskov Substitution Principle.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Liskov Substitution Principle\obj\Debug\net5.0\ref\Liskov Substitution Principle.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Liskov Substitution Principle\obj\Debug\net5.0\Liskov Substitution Principle.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Liskov Substitution Principle\obj\Debug\net5.0\Liskov Substitution Principle.genruntimeconfig.cache
