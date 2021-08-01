@@ -1,0 +1,15 @@
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Single Responsibility\Not hurting OCP\bin\Debug\net5.0\Not hurting OCP.exe
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Single Responsibility\Not hurting OCP\bin\Debug\net5.0\Not hurting OCP.deps.json
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Single Responsibility\Not hurting OCP\bin\Debug\net5.0\Not hurting OCP.runtimeconfig.json
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Single Responsibility\Not hurting OCP\bin\Debug\net5.0\Not hurting OCP.runtimeconfig.dev.json
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Single Responsibility\Not hurting OCP\bin\Debug\net5.0\Not hurting OCP.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Single Responsibility\Not hurting OCP\bin\Debug\net5.0\ref\Not hurting OCP.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Single Responsibility\Not hurting OCP\bin\Debug\net5.0\Not hurting OCP.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Single Responsibility\Not hurting OCP\obj\Debug\net5.0\Not hurting OCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Single Responsibility\Not hurting OCP\obj\Debug\net5.0\Not hurting OCP.AssemblyInfoInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Single Responsibility\Not hurting OCP\obj\Debug\net5.0\Not hurting OCP.AssemblyInfo.cs
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Single Responsibility\Not hurting OCP\obj\Debug\net5.0\Not hurting OCP.csproj.CoreCompileInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Single Responsibility\Not hurting OCP\obj\Debug\net5.0\Not hurting OCP.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Single Responsibility\Not hurting OCP\obj\Debug\net5.0\ref\Not hurting OCP.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Single Responsibility\Not hurting OCP\obj\Debug\net5.0\Not hurting OCP.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\SOLID\Single Responsibility\Not hurting OCP\obj\Debug\net5.0\Not hurting OCP.genruntimeconfig.cache

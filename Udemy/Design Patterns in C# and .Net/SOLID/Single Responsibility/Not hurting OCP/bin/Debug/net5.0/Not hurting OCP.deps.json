@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Not hurting OCP/1.0.0": {
+        "runtime": {
+          "Not hurting OCP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Not hurting OCP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
