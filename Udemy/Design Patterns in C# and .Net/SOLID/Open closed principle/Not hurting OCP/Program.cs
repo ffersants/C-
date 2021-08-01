@@ -32,6 +32,22 @@ namespace Not_hurting_OCP
     {
         IEnumerable<T> Filter(IEnumerable<T> fullList, ISpecification<T> filterLogic);
     }
+
+    public class ColorAndSizeSepecification : ISpecification<Product>
+    {
+        private Color color;
+        private Size size;
+        public ColorAndSizeSepecification(Color color, Size size)
+        {
+            this.color = color;
+            this.size = size;
+        }
+
+        public bool IsSatisfied(Product product)
+        {
+            return product.Color == color && product.Size == size;          
+        }
+    }
     public class ColorSpecification : ISpecification<Product>
     {
         private Color color;
@@ -97,6 +113,10 @@ namespace Not_hurting_OCP
             IEnumerable<Product> onlyMedium = mainFilter.Filter(produtos, new SizeSpecification(Size.Medium));
             Console.WriteLine("\nOnly medium products:");
             foreach (var i in onlyMedium) Console.WriteLine(i.Name.ToString());
+
+            IEnumerable<Product> onlyMediumAndYellow = mainFilter.Filter(produtos, new ColorAndSizeSepecification(Color.Yellow, Size.Medium));
+            Console.WriteLine("\nOnly medium and yellow products:");
+            foreach (var i in onlyMediumAndYellow) Console.WriteLine(i.Name.ToString());
         }
     }
 }

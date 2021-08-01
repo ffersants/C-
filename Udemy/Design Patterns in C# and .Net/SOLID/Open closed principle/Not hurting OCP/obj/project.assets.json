@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\Design Patterns in C# and .Net\\SOLID\\Single Responsibility\\Not hurting OCP\\Not hurting OCP.csproj",
+      "projectUniqueName": "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\Design Patterns in C# and .Net\\SOLID\\Open closed principle\\Not hurting OCP\\Not hurting OCP.csproj",
       "projectName": "Not hurting OCP",
-      "projectPath": "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\Design Patterns in C# and .Net\\SOLID\\Single Responsibility\\Not hurting OCP\\Not hurting OCP.csproj",
+      "projectPath": "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\Design Patterns in C# and .Net\\SOLID\\Open closed principle\\Not hurting OCP\\Not hurting OCP.csproj",
       "packagesPath": "C:\\Users\\DheyEs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\Design Patterns in C# and .Net\\SOLID\\Single Responsibility\\Not hurting OCP\\obj\\",
+      "outputPath": "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\Design Patterns in C# and .Net\\SOLID\\Open closed principle\\Not hurting OCP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DheyEs\\AppData\\Roaming\\NuGet\\NuGet.Config",

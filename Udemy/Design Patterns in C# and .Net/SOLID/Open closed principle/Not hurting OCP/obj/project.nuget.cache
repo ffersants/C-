@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "33pSqPIZfUiH6EqXk1mzUwzv5TU9FYLN/bW0x7NaFvfMGR80LI82BRfNlAIeVqzMnKJYEUL01+EzkG1agYmanQ==",
+  "dgSpecHash": "k1Emsv4bQkl4mZaml6UtpGgqUg/+BMWm124Mv+dSR7X72QiW4vmUjF/bKQuXXms08PZsXCnDZelOW1hF9o8OUA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\Design Patterns in C# and .Net\\SOLID\\Single Responsibility\\Not hurting OCP\\Not hurting OCP.csproj",
+  "projectFilePath": "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\Design Patterns in C# and .Net\\SOLID\\Open closed principle\\Not hurting OCP\\Not hurting OCP.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
