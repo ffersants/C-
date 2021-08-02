@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Passar_atributo_para_superclasse_abstrata</RootNamespace>
+  </PropertyGroup>
+
+</Project>

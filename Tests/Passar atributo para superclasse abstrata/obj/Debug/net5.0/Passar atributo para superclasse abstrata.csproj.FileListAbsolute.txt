@@ -1,0 +1,16 @@
+C:\Users\DheyEs\Documents\C#\Tests\Passar atributo para superclasse abstrata\bin\Debug\net5.0\Passar atributo para superclasse abstrata.exe
+C:\Users\DheyEs\Documents\C#\Tests\Passar atributo para superclasse abstrata\bin\Debug\net5.0\Passar atributo para superclasse abstrata.deps.json
+C:\Users\DheyEs\Documents\C#\Tests\Passar atributo para superclasse abstrata\bin\Debug\net5.0\Passar atributo para superclasse abstrata.runtimeconfig.json
+C:\Users\DheyEs\Documents\C#\Tests\Passar atributo para superclasse abstrata\bin\Debug\net5.0\Passar atributo para superclasse abstrata.runtimeconfig.dev.json
+C:\Users\DheyEs\Documents\C#\Tests\Passar atributo para superclasse abstrata\bin\Debug\net5.0\Passar atributo para superclasse abstrata.dll
+C:\Users\DheyEs\Documents\C#\Tests\Passar atributo para superclasse abstrata\bin\Debug\net5.0\ref\Passar atributo para superclasse abstrata.dll
+C:\Users\DheyEs\Documents\C#\Tests\Passar atributo para superclasse abstrata\bin\Debug\net5.0\Passar atributo para superclasse abstrata.pdb
+C:\Users\DheyEs\Documents\C#\Tests\Passar atributo para superclasse abstrata\obj\Debug\net5.0\Passar atributo para superclasse abstrata.csproj.AssemblyReference.cache
+C:\Users\DheyEs\Documents\C#\Tests\Passar atributo para superclasse abstrata\obj\Debug\net5.0\Passar atributo para superclasse abstrata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DheyEs\Documents\C#\Tests\Passar atributo para superclasse abstrata\obj\Debug\net5.0\Passar atributo para superclasse abstrata.AssemblyInfoInputs.cache
+C:\Users\DheyEs\Documents\C#\Tests\Passar atributo para superclasse abstrata\obj\Debug\net5.0\Passar atributo para superclasse abstrata.AssemblyInfo.cs
+C:\Users\DheyEs\Documents\C#\Tests\Passar atributo para superclasse abstrata\obj\Debug\net5.0\Passar atributo para superclasse abstrata.csproj.CoreCompileInputs.cache
+C:\Users\DheyEs\Documents\C#\Tests\Passar atributo para superclasse abstrata\obj\Debug\net5.0\Passar atributo para superclasse abstrata.dll
+C:\Users\DheyEs\Documents\C#\Tests\Passar atributo para superclasse abstrata\obj\Debug\net5.0\ref\Passar atributo para superclasse abstrata.dll
+C:\Users\DheyEs\Documents\C#\Tests\Passar atributo para superclasse abstrata\obj\Debug\net5.0\Passar atributo para superclasse abstrata.pdb
+C:\Users\DheyEs\Documents\C#\Tests\Passar atributo para superclasse abstrata\obj\Debug\net5.0\Passar atributo para superclasse abstrata.genruntimeconfig.cache
