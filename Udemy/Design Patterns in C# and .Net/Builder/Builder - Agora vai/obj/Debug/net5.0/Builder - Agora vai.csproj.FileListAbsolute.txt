@@ -1,0 +1,16 @@
+C:\Users\0022985\Documents\Github\CSharp\Udemy\Design Patterns in C# and .Net\Builder\Builder - Agora vai\bin\Debug\net5.0\Builder - Agora vai.exe
+C:\Users\0022985\Documents\Github\CSharp\Udemy\Design Patterns in C# and .Net\Builder\Builder - Agora vai\bin\Debug\net5.0\Builder - Agora vai.deps.json
+C:\Users\0022985\Documents\Github\CSharp\Udemy\Design Patterns in C# and .Net\Builder\Builder - Agora vai\bin\Debug\net5.0\Builder - Agora vai.runtimeconfig.json
+C:\Users\0022985\Documents\Github\CSharp\Udemy\Design Patterns in C# and .Net\Builder\Builder - Agora vai\bin\Debug\net5.0\Builder - Agora vai.runtimeconfig.dev.json
+C:\Users\0022985\Documents\Github\CSharp\Udemy\Design Patterns in C# and .Net\Builder\Builder - Agora vai\bin\Debug\net5.0\Builder - Agora vai.dll
+C:\Users\0022985\Documents\Github\CSharp\Udemy\Design Patterns in C# and .Net\Builder\Builder - Agora vai\bin\Debug\net5.0\ref\Builder - Agora vai.dll
+C:\Users\0022985\Documents\Github\CSharp\Udemy\Design Patterns in C# and .Net\Builder\Builder - Agora vai\bin\Debug\net5.0\Builder - Agora vai.pdb
+C:\Users\0022985\Documents\Github\CSharp\Udemy\Design Patterns in C# and .Net\Builder\Builder - Agora vai\obj\Debug\net5.0\Builder - Agora vai.csproj.AssemblyReference.cache
+C:\Users\0022985\Documents\Github\CSharp\Udemy\Design Patterns in C# and .Net\Builder\Builder - Agora vai\obj\Debug\net5.0\Builder - Agora vai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0022985\Documents\Github\CSharp\Udemy\Design Patterns in C# and .Net\Builder\Builder - Agora vai\obj\Debug\net5.0\Builder - Agora vai.AssemblyInfoInputs.cache
+C:\Users\0022985\Documents\Github\CSharp\Udemy\Design Patterns in C# and .Net\Builder\Builder - Agora vai\obj\Debug\net5.0\Builder - Agora vai.AssemblyInfo.cs
+C:\Users\0022985\Documents\Github\CSharp\Udemy\Design Patterns in C# and .Net\Builder\Builder - Agora vai\obj\Debug\net5.0\Builder - Agora vai.csproj.CoreCompileInputs.cache
+C:\Users\0022985\Documents\Github\CSharp\Udemy\Design Patterns in C# and .Net\Builder\Builder - Agora vai\obj\Debug\net5.0\Builder - Agora vai.dll
+C:\Users\0022985\Documents\Github\CSharp\Udemy\Design Patterns in C# and .Net\Builder\Builder - Agora vai\obj\Debug\net5.0\ref\Builder - Agora vai.dll
+C:\Users\0022985\Documents\Github\CSharp\Udemy\Design Patterns in C# and .Net\Builder\Builder - Agora vai\obj\Debug\net5.0\Builder - Agora vai.pdb
+C:\Users\0022985\Documents\Github\CSharp\Udemy\Design Patterns in C# and .Net\Builder\Builder - Agora vai\obj\Debug\net5.0\Builder - Agora vai.genruntimeconfig.cache
