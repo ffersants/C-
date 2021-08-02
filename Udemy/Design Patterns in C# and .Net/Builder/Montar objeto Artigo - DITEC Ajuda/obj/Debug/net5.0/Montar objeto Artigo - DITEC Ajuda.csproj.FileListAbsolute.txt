@@ -1,0 +1,16 @@
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\Montar objeto Artigo - DITEC Ajuda\bin\Debug\net5.0\Montar objeto Artigo - DITEC Ajuda.exe
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\Montar objeto Artigo - DITEC Ajuda\bin\Debug\net5.0\Montar objeto Artigo - DITEC Ajuda.deps.json
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\Montar objeto Artigo - DITEC Ajuda\bin\Debug\net5.0\Montar objeto Artigo - DITEC Ajuda.runtimeconfig.json
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\Montar objeto Artigo - DITEC Ajuda\bin\Debug\net5.0\Montar objeto Artigo - DITEC Ajuda.runtimeconfig.dev.json
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\Montar objeto Artigo - DITEC Ajuda\bin\Debug\net5.0\Montar objeto Artigo - DITEC Ajuda.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\Montar objeto Artigo - DITEC Ajuda\bin\Debug\net5.0\ref\Montar objeto Artigo - DITEC Ajuda.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\Montar objeto Artigo - DITEC Ajuda\bin\Debug\net5.0\Montar objeto Artigo - DITEC Ajuda.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\Montar objeto Artigo - DITEC Ajuda\obj\Debug\net5.0\Montar objeto Artigo - DITEC Ajuda.csproj.AssemblyReference.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\Montar objeto Artigo - DITEC Ajuda\obj\Debug\net5.0\Montar objeto Artigo - DITEC Ajuda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\Montar objeto Artigo - DITEC Ajuda\obj\Debug\net5.0\Montar objeto Artigo - DITEC Ajuda.AssemblyInfoInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\Montar objeto Artigo - DITEC Ajuda\obj\Debug\net5.0\Montar objeto Artigo - DITEC Ajuda.AssemblyInfo.cs
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\Montar objeto Artigo - DITEC Ajuda\obj\Debug\net5.0\Montar objeto Artigo - DITEC Ajuda.csproj.CoreCompileInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\Montar objeto Artigo - DITEC Ajuda\obj\Debug\net5.0\Montar objeto Artigo - DITEC Ajuda.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\Montar objeto Artigo - DITEC Ajuda\obj\Debug\net5.0\ref\Montar objeto Artigo - DITEC Ajuda.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\Montar objeto Artigo - DITEC Ajuda\obj\Debug\net5.0\Montar objeto Artigo - DITEC Ajuda.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\Montar objeto Artigo - DITEC Ajuda\obj\Debug\net5.0\Montar objeto Artigo - DITEC Ajuda.genruntimeconfig.cache

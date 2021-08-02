@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Montar objeto Artigo - DITEC Ajuda/1.0.0": {
+        "runtime": {
+          "Montar objeto Artigo - DITEC Ajuda.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Montar objeto Artigo - DITEC Ajuda/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
