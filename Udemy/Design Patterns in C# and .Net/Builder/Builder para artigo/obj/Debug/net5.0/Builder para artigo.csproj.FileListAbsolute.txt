@@ -1,0 +1,16 @@
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\Builder para artigo\bin\Debug\net5.0\Builder para artigo.exe
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\Builder para artigo\bin\Debug\net5.0\Builder para artigo.deps.json
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\Builder para artigo\bin\Debug\net5.0\Builder para artigo.runtimeconfig.json
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\Builder para artigo\bin\Debug\net5.0\Builder para artigo.runtimeconfig.dev.json
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\Builder para artigo\bin\Debug\net5.0\Builder para artigo.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\Builder para artigo\bin\Debug\net5.0\ref\Builder para artigo.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\Builder para artigo\bin\Debug\net5.0\Builder para artigo.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\Builder para artigo\obj\Debug\net5.0\Builder para artigo.csproj.AssemblyReference.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\Builder para artigo\obj\Debug\net5.0\Builder para artigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\Builder para artigo\obj\Debug\net5.0\Builder para artigo.AssemblyInfoInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\Builder para artigo\obj\Debug\net5.0\Builder para artigo.AssemblyInfo.cs
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\Builder para artigo\obj\Debug\net5.0\Builder para artigo.csproj.CoreCompileInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\Builder para artigo\obj\Debug\net5.0\Builder para artigo.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\Builder para artigo\obj\Debug\net5.0\ref\Builder para artigo.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\Builder para artigo\obj\Debug\net5.0\Builder para artigo.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\Builder para artigo\obj\Debug\net5.0\Builder para artigo.genruntimeconfig.cache
