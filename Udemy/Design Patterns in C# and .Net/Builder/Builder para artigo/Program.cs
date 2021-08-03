@@ -9,7 +9,7 @@ namespace Builder_para_artigo
     {
         static void Main(string[] args)
         {
-            var builder = new ArticleBuilder();
+            ArticleBuilder builder = new ArticleBuilder();
             Director director = new Director(builder);
 
             director.novoArtigo("Fernando Santos Ferreira");
