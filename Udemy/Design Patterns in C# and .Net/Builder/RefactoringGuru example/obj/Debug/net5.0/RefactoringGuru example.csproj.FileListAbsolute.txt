@@ -1,0 +1,16 @@
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\RefactoringGuru example\bin\Debug\net5.0\RefactoringGuru example.exe
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\RefactoringGuru example\bin\Debug\net5.0\RefactoringGuru example.deps.json
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\RefactoringGuru example\bin\Debug\net5.0\RefactoringGuru example.runtimeconfig.json
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\RefactoringGuru example\bin\Debug\net5.0\RefactoringGuru example.runtimeconfig.dev.json
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\RefactoringGuru example\bin\Debug\net5.0\RefactoringGuru example.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\RefactoringGuru example\bin\Debug\net5.0\ref\RefactoringGuru example.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\RefactoringGuru example\bin\Debug\net5.0\RefactoringGuru example.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\RefactoringGuru example\obj\Debug\net5.0\RefactoringGuru example.csproj.AssemblyReference.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\RefactoringGuru example\obj\Debug\net5.0\RefactoringGuru example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\RefactoringGuru example\obj\Debug\net5.0\RefactoringGuru example.AssemblyInfoInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\RefactoringGuru example\obj\Debug\net5.0\RefactoringGuru example.AssemblyInfo.cs
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\RefactoringGuru example\obj\Debug\net5.0\RefactoringGuru example.csproj.CoreCompileInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\RefactoringGuru example\obj\Debug\net5.0\RefactoringGuru example.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\RefactoringGuru example\obj\Debug\net5.0\ref\RefactoringGuru example.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\RefactoringGuru example\obj\Debug\net5.0\RefactoringGuru example.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Builder\RefactoringGuru example\obj\Debug\net5.0\RefactoringGuru example.genruntimeconfig.cache
