@@ -1,0 +1,16 @@
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Boxing e unboxing\bin\Debug\net5.0\Boxing e unboxing.exe
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Boxing e unboxing\bin\Debug\net5.0\Boxing e unboxing.deps.json
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Boxing e unboxing\bin\Debug\net5.0\Boxing e unboxing.runtimeconfig.json
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Boxing e unboxing\bin\Debug\net5.0\Boxing e unboxing.runtimeconfig.dev.json
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Boxing e unboxing\bin\Debug\net5.0\Boxing e unboxing.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Boxing e unboxing\bin\Debug\net5.0\ref\Boxing e unboxing.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Boxing e unboxing\bin\Debug\net5.0\Boxing e unboxing.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Boxing e unboxing\obj\Debug\net5.0\Boxing e unboxing.csproj.AssemblyReference.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Boxing e unboxing\obj\Debug\net5.0\Boxing e unboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Boxing e unboxing\obj\Debug\net5.0\Boxing e unboxing.AssemblyInfoInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Boxing e unboxing\obj\Debug\net5.0\Boxing e unboxing.AssemblyInfo.cs
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Boxing e unboxing\obj\Debug\net5.0\Boxing e unboxing.csproj.CoreCompileInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Boxing e unboxing\obj\Debug\net5.0\Boxing e unboxing.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Boxing e unboxing\obj\Debug\net5.0\ref\Boxing e unboxing.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Boxing e unboxing\obj\Debug\net5.0\Boxing e unboxing.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 6\Boxing e unboxing\obj\Debug\net5.0\Boxing e unboxing.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 13\File e FileInfo\bin\Debug\net5.0\File e FileInfo.exe
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 13\File e FileInfo\bin\Debug\net5.0\File e FileInfo.deps.json
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 13\File e FileInfo\bin\Debug\net5.0\File e FileInfo.runtimeconfig.json
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 13\File e FileInfo\bin\Debug\net5.0\File e FileInfo.runtimeconfig.dev.json
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 13\File e FileInfo\bin\Debug\net5.0\File e FileInfo.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 13\File e FileInfo\bin\Debug\net5.0\ref\File e FileInfo.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 13\File e FileInfo\bin\Debug\net5.0\File e FileInfo.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 13\File e FileInfo\obj\Debug\net5.0\File e FileInfo.csproj.AssemblyReference.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 13\File e FileInfo\obj\Debug\net5.0\File e FileInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 13\File e FileInfo\obj\Debug\net5.0\File e FileInfo.AssemblyInfoInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 13\File e FileInfo\obj\Debug\net5.0\File e FileInfo.AssemblyInfo.cs
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 13\File e FileInfo\obj\Debug\net5.0\File e FileInfo.csproj.CoreCompileInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 13\File e FileInfo\obj\Debug\net5.0\File e FileInfo.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 13\File e FileInfo\obj\Debug\net5.0\ref\File e FileInfo.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 13\File e FileInfo\obj\Debug\net5.0\File e FileInfo.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 13\File e FileInfo\obj\Debug\net5.0\File e FileInfo.genruntimeconfig.cache

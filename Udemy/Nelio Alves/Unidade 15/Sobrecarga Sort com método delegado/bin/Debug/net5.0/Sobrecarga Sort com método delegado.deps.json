@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Sobrecarga Sort com método delegado/1.0.0": {
+        "runtime": {
+          "Sobrecarga Sort com método delegado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sobrecarga Sort com método delegado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

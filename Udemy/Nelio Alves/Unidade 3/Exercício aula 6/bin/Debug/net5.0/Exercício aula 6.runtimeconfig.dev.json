@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\DheyEs\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\DheyEs\\.nuget\\packages"
+    ]
+  }
+}

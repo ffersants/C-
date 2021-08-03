@@ -1,0 +1,16 @@
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 16\Delegate\bin\Debug\net5.0\Delegate.exe
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 16\Delegate\bin\Debug\net5.0\Delegate.deps.json
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 16\Delegate\bin\Debug\net5.0\Delegate.runtimeconfig.json
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 16\Delegate\bin\Debug\net5.0\Delegate.runtimeconfig.dev.json
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 16\Delegate\bin\Debug\net5.0\Delegate.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 16\Delegate\bin\Debug\net5.0\ref\Delegate.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 16\Delegate\bin\Debug\net5.0\Delegate.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 16\Delegate\obj\Debug\net5.0\Delegate.csproj.AssemblyReference.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 16\Delegate\obj\Debug\net5.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 16\Delegate\obj\Debug\net5.0\Delegate.AssemblyInfoInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 16\Delegate\obj\Debug\net5.0\Delegate.AssemblyInfo.cs
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 16\Delegate\obj\Debug\net5.0\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 16\Delegate\obj\Debug\net5.0\Delegate.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 16\Delegate\obj\Debug\net5.0\ref\Delegate.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 16\Delegate\obj\Debug\net5.0\Delegate.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 16\Delegate\obj\Debug\net5.0\Delegate.genruntimeconfig.cache

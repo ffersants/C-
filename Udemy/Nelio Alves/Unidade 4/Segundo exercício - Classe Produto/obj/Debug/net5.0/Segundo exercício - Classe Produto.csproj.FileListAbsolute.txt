@@ -1,0 +1,16 @@
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 4\Segundo exercício - Classe Produto\obj\Debug\net5.0\Segundo exercício - Classe Produto.csprojAssemblyReference.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 4\Segundo exercício - Classe Produto\obj\Debug\net5.0\Segundo exercício - Classe Produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 4\Segundo exercício - Classe Produto\obj\Debug\net5.0\Segundo exercício - Classe Produto.AssemblyInfoInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 4\Segundo exercício - Classe Produto\obj\Debug\net5.0\Segundo exercício - Classe Produto.AssemblyInfo.cs
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 4\Segundo exercício - Classe Produto\obj\Debug\net5.0\Segundo exercício - Classe Produto.csproj.CoreCompileInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 4\Segundo exercício - Classe Produto\bin\Debug\net5.0\Segundo exercício - Classe Produto.exe
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 4\Segundo exercício - Classe Produto\bin\Debug\net5.0\Segundo exercício - Classe Produto.deps.json
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 4\Segundo exercício - Classe Produto\bin\Debug\net5.0\Segundo exercício - Classe Produto.runtimeconfig.json
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 4\Segundo exercício - Classe Produto\bin\Debug\net5.0\Segundo exercício - Classe Produto.runtimeconfig.dev.json
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 4\Segundo exercício - Classe Produto\bin\Debug\net5.0\Segundo exercício - Classe Produto.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 4\Segundo exercício - Classe Produto\bin\Debug\net5.0\ref\Segundo exercício - Classe Produto.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 4\Segundo exercício - Classe Produto\bin\Debug\net5.0\Segundo exercício - Classe Produto.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 4\Segundo exercício - Classe Produto\obj\Debug\net5.0\Segundo exercício - Classe Produto.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 4\Segundo exercício - Classe Produto\obj\Debug\net5.0\ref\Segundo exercício - Classe Produto.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 4\Segundo exercício - Classe Produto\obj\Debug\net5.0\Segundo exercício - Classe Produto.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Unidade 4\Segundo exercício - Classe Produto\obj\Debug\net5.0\Segundo exercício - Classe Produto.genruntimeconfig.cache
