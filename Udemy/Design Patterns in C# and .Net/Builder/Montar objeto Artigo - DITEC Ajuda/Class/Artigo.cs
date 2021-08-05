@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Montar_objeto_Artigo___DITEC_Ajuda.Class
 {
-    interface Artigo
+    class Artigo
     {
         public string titulo { get; set; }
         public string corpo { get; set; }

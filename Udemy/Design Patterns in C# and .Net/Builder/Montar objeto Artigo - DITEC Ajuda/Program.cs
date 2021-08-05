@@ -10,7 +10,9 @@ namespace Montar_objeto_Artigo___DITEC_Ajuda
             ArtigoVazioBuilder builder = new ArtigoVazioBuilder();
             DirectorService a = new DirectorService(builder);
 
-            
+            a.artigoVazio();
+            var artigo = builder.getArtigo();
+            Console.WriteLine(artigo.corpo);
         }
     }
 }
