@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Iniciando - Factory Method/1.0.0": {
+        "runtime": {
+          "Iniciando - Factory Method.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Iniciando - Factory Method/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

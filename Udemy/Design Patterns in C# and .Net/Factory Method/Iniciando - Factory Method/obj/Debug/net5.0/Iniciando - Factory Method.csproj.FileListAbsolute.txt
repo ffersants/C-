@@ -1,0 +1,16 @@
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Factory Method\Iniciando - Factory Method\bin\Debug\net5.0\Iniciando - Factory Method.exe
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Factory Method\Iniciando - Factory Method\bin\Debug\net5.0\Iniciando - Factory Method.deps.json
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Factory Method\Iniciando - Factory Method\bin\Debug\net5.0\Iniciando - Factory Method.runtimeconfig.json
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Factory Method\Iniciando - Factory Method\bin\Debug\net5.0\Iniciando - Factory Method.runtimeconfig.dev.json
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Factory Method\Iniciando - Factory Method\bin\Debug\net5.0\Iniciando - Factory Method.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Factory Method\Iniciando - Factory Method\bin\Debug\net5.0\ref\Iniciando - Factory Method.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Factory Method\Iniciando - Factory Method\bin\Debug\net5.0\Iniciando - Factory Method.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Factory Method\Iniciando - Factory Method\obj\Debug\net5.0\Iniciando - Factory Method.csproj.AssemblyReference.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Factory Method\Iniciando - Factory Method\obj\Debug\net5.0\Iniciando - Factory Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Factory Method\Iniciando - Factory Method\obj\Debug\net5.0\Iniciando - Factory Method.AssemblyInfoInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Factory Method\Iniciando - Factory Method\obj\Debug\net5.0\Iniciando - Factory Method.AssemblyInfo.cs
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Factory Method\Iniciando - Factory Method\obj\Debug\net5.0\Iniciando - Factory Method.csproj.CoreCompileInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Factory Method\Iniciando - Factory Method\obj\Debug\net5.0\Iniciando - Factory Method.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Factory Method\Iniciando - Factory Method\obj\Debug\net5.0\ref\Iniciando - Factory Method.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Factory Method\Iniciando - Factory Method\obj\Debug\net5.0\Iniciando - Factory Method.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Factory Method\Iniciando - Factory Method\obj\Debug\net5.0\Iniciando - Factory Method.genruntimeconfig.cache
