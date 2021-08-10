@@ -1,0 +1,16 @@
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Factory Method\Factory Method in abstract class\bin\Debug\net5.0\Factory Method in abstract class.exe
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Factory Method\Factory Method in abstract class\bin\Debug\net5.0\Factory Method in abstract class.deps.json
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Factory Method\Factory Method in abstract class\bin\Debug\net5.0\Factory Method in abstract class.runtimeconfig.json
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Factory Method\Factory Method in abstract class\bin\Debug\net5.0\Factory Method in abstract class.runtimeconfig.dev.json
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Factory Method\Factory Method in abstract class\bin\Debug\net5.0\Factory Method in abstract class.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Factory Method\Factory Method in abstract class\bin\Debug\net5.0\ref\Factory Method in abstract class.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Factory Method\Factory Method in abstract class\bin\Debug\net5.0\Factory Method in abstract class.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Factory Method\Factory Method in abstract class\obj\Debug\net5.0\Factory Method in abstract class.csproj.AssemblyReference.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Factory Method\Factory Method in abstract class\obj\Debug\net5.0\Factory Method in abstract class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Factory Method\Factory Method in abstract class\obj\Debug\net5.0\Factory Method in abstract class.AssemblyInfoInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Factory Method\Factory Method in abstract class\obj\Debug\net5.0\Factory Method in abstract class.AssemblyInfo.cs
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Factory Method\Factory Method in abstract class\obj\Debug\net5.0\Factory Method in abstract class.csproj.CoreCompileInputs.cache
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Factory Method\Factory Method in abstract class\obj\Debug\net5.0\Factory Method in abstract class.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Factory Method\Factory Method in abstract class\obj\Debug\net5.0\ref\Factory Method in abstract class.dll
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Factory Method\Factory Method in abstract class\obj\Debug\net5.0\Factory Method in abstract class.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\Design Patterns in C# and .Net\Factory Method\Factory Method in abstract class\obj\Debug\net5.0\Factory Method in abstract class.genruntimeconfig.cache
