@@ -8,24 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\0022985\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\DheyEs\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\0022985\\Documents\\Github\\CSharp\\Udemy\\Design Patterns in C# and .Net\\Builder\\Builder - Agora vai\\Builder - Agora vai.csproj",
+      "projectUniqueName": "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\Design Patterns in C# and .Net\\Builder\\Builder - Agora vai\\Builder - Agora vai.csproj",
       "projectName": "Builder - Agora vai",
-      "projectPath": "C:\\Users\\0022985\\Documents\\Github\\CSharp\\Udemy\\Design Patterns in C# and .Net\\Builder\\Builder - Agora vai\\Builder - Agora vai.csproj",
-      "packagesPath": "C:\\Users\\0022985\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\0022985\\Documents\\Github\\CSharp\\Udemy\\Design Patterns in C# and .Net\\Builder\\Builder - Agora vai\\obj\\",
+      "projectPath": "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\Design Patterns in C# and .Net\\Builder\\Builder - Agora vai\\Builder - Agora vai.csproj",
+      "packagesPath": "C:\\Users\\DheyEs\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\Design Patterns in C# and .Net\\Builder\\Builder - Agora vai\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\0022985\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\DheyEs\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
