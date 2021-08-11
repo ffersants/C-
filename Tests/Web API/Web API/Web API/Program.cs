@@ -13,6 +13,7 @@ namespace Web_API
     {
         public static void Main(string[] args)
         {
+            Console.WriteLine(System.Environment.Version.ToString());
             CreateHostBuilder(args).Build().Run();
         }
 
