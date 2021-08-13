@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace API.Domain.Entities
 {
-    public class BaseEntity
+    public abstract class BaseEntity
     {
         // coloca a propriedade Id como uma chave primária
         [Key]
