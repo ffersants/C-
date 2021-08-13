@@ -13,3 +13,6 @@ C:\Users\DheyEs\Documents\C#\Udemy\C# API with DDD and Entity Core Framework\src
 C:\Users\DheyEs\Documents\C#\Udemy\C# API with DDD and Entity Core Framework\src\API.Data\bin\Debug\net5.0\Data.runtimeconfig.json
 C:\Users\DheyEs\Documents\C#\Udemy\C# API with DDD and Entity Core Framework\src\API.Data\bin\Debug\net5.0\Data.runtimeconfig.dev.json
 C:\Users\DheyEs\Documents\C#\Udemy\C# API with DDD and Entity Core Framework\src\API.Data\obj\Debug\net5.0\Data.genruntimeconfig.cache
+C:\Users\DheyEs\Documents\C#\Udemy\C# API with DDD and Entity Core Framework\src\API.Data\bin\Debug\net5.0\Domain.dll
+C:\Users\DheyEs\Documents\C#\Udemy\C# API with DDD and Entity Core Framework\src\API.Data\bin\Debug\net5.0\Domain.pdb
+C:\Users\DheyEs\Documents\C#\Udemy\C# API with DDD and Entity Core Framework\src\API.Data\obj\Debug\net5.0\Data.csproj.CopyComplete
