@@ -10,6 +10,6 @@ namespace Factory_Method_in_abstract_class.Factory
     abstract class FactoryMethod
     {
         abstract public IVehicle FMethod(string color, string vehicleType);
-       
+
     }
 }
