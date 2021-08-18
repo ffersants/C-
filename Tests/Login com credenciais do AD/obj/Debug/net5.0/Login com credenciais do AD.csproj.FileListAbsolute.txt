@@ -1,0 +1,21 @@
+C:\Users\0022985\Documents\Github\CSharp\Tests\Login com credenciais do AD\bin\Debug\net5.0\Login com credenciais do AD.exe
+C:\Users\0022985\Documents\Github\CSharp\Tests\Login com credenciais do AD\bin\Debug\net5.0\Login com credenciais do AD.deps.json
+C:\Users\0022985\Documents\Github\CSharp\Tests\Login com credenciais do AD\bin\Debug\net5.0\Login com credenciais do AD.runtimeconfig.json
+C:\Users\0022985\Documents\Github\CSharp\Tests\Login com credenciais do AD\bin\Debug\net5.0\Login com credenciais do AD.runtimeconfig.dev.json
+C:\Users\0022985\Documents\Github\CSharp\Tests\Login com credenciais do AD\bin\Debug\net5.0\Login com credenciais do AD.dll
+C:\Users\0022985\Documents\Github\CSharp\Tests\Login com credenciais do AD\bin\Debug\net5.0\ref\Login com credenciais do AD.dll
+C:\Users\0022985\Documents\Github\CSharp\Tests\Login com credenciais do AD\bin\Debug\net5.0\Login com credenciais do AD.pdb
+C:\Users\0022985\Documents\Github\CSharp\Tests\Login com credenciais do AD\bin\Debug\net5.0\System.DirectoryServices.Protocols.dll
+C:\Users\0022985\Documents\Github\CSharp\Tests\Login com credenciais do AD\bin\Debug\net5.0\runtimes\linux\lib\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+C:\Users\0022985\Documents\Github\CSharp\Tests\Login com credenciais do AD\bin\Debug\net5.0\runtimes\osx\lib\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+C:\Users\0022985\Documents\Github\CSharp\Tests\Login com credenciais do AD\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+C:\Users\0022985\Documents\Github\CSharp\Tests\Login com credenciais do AD\obj\Debug\net5.0\Login com credenciais do AD.csproj.AssemblyReference.cache
+C:\Users\0022985\Documents\Github\CSharp\Tests\Login com credenciais do AD\obj\Debug\net5.0\Login com credenciais do AD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0022985\Documents\Github\CSharp\Tests\Login com credenciais do AD\obj\Debug\net5.0\Login com credenciais do AD.AssemblyInfoInputs.cache
+C:\Users\0022985\Documents\Github\CSharp\Tests\Login com credenciais do AD\obj\Debug\net5.0\Login com credenciais do AD.AssemblyInfo.cs
+C:\Users\0022985\Documents\Github\CSharp\Tests\Login com credenciais do AD\obj\Debug\net5.0\Login com credenciais do AD.csproj.CoreCompileInputs.cache
+C:\Users\0022985\Documents\Github\CSharp\Tests\Login com credenciais do AD\obj\Debug\net5.0\Login com credenciais do AD.csproj.CopyComplete
+C:\Users\0022985\Documents\Github\CSharp\Tests\Login com credenciais do AD\obj\Debug\net5.0\Login com credenciais do AD.dll
+C:\Users\0022985\Documents\Github\CSharp\Tests\Login com credenciais do AD\obj\Debug\net5.0\ref\Login com credenciais do AD.dll
+C:\Users\0022985\Documents\Github\CSharp\Tests\Login com credenciais do AD\obj\Debug\net5.0\Login com credenciais do AD.pdb
+C:\Users\0022985\Documents\Github\CSharp\Tests\Login com credenciais do AD\obj\Debug\net5.0\Login com credenciais do AD.genruntimeconfig.cache

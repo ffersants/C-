@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wGNtT8ff8m/CVqF0241mZYOfZiT8xP5OxQ9KW3O+5vDhEquxd7gGnp0PX6gPnYVQ5uyB0PzAhDCdKnUQu06Vjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\0022985\\Documents\\Github\\CSharp\\Tests\\Login com credenciais do AD\\Login com credenciais do AD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\0022985\\.nuget\\packages\\system.directoryservices.protocols\\6.0.0-preview.7.21377.19\\system.directoryservices.protocols.6.0.0-preview.7.21377.19.nupkg.sha512",
+    "C:\\Users\\0022985\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

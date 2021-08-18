@@ -1,0 +1,72 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Login com credenciais do AD/1.0.0": {
+        "dependencies": {
+          "System.DirectoryServices.Protocols": "6.0.0-preview.7.21377.19"
+        },
+        "runtime": {
+          "Login com credenciais do AD.dll": {}
+        }
+      },
+      "System.DirectoryServices.Protocols/6.0.0-preview.7.21377.19": {
+        "dependencies": {
+          "System.Security.Principal.Windows": "5.0.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/System.DirectoryServices.Protocols.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6.0.21.37719"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux/lib/netcoreapp3.1/System.DirectoryServices.Protocols.dll": {
+            "rid": "linux",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6.0.21.37719"
+          },
+          "runtimes/osx/lib/netcoreapp3.1/System.DirectoryServices.Protocols.dll": {
+            "rid": "osx",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6.0.21.37719"
+          },
+          "runtimes/win/lib/netcoreapp3.1/System.DirectoryServices.Protocols.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6.0.21.37719"
+          }
+        }
+      },
+      "System.Security.Principal.Windows/5.0.0": {}
+    }
+  },
+  "libraries": {
+    "Login com credenciais do AD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.DirectoryServices.Protocols/6.0.0-preview.7.21377.19": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lkn9Ft4m9RMY6YGyrk92gGq4QMtIzdNvts0CA9OFYn3/+H6J3wZ3ifkEo0HvVPs5WfLV+9ENEfUHj1NvDHAAEw==",
+      "path": "system.directoryservices.protocols/6.0.0-preview.7.21377.19",
+      "hashPath": "system.directoryservices.protocols.6.0.0-preview.7.21377.19.nupkg.sha512"
+    },
+    "System.Security.Principal.Windows/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-t0MGLukB5WAVU9bO3MGzvlGnyJPgUlcwerXn1kzBRjwLKixT96XV0Uza41W49gVd8zEMFu9vQEFlv0IOrytICA==",
+      "path": "system.security.principal.windows/5.0.0",
+      "hashPath": "system.security.principal.windows.5.0.0.nupkg.sha512"
+    }
+  }
+}
