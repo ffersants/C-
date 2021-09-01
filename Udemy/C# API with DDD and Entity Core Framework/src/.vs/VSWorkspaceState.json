@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\API.Data",
+    "\\API.Data\\Repository",
+    "\\API.Domain\\Interfaces\\Services",
+    "\\API.Domain\\Interfaces\\Services\\Users"
+  ],
+  "SelectedNode": "\\API.Data\\Repository\\BaseRepository.cs",
+  "PreviewInSolutionExplorer": false
+}

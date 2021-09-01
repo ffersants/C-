@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\C# API with DDD and Entity Core Framework\\src\\api.data\\Data.csproj": {}
+    "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\C# API with DDD and Entity Core Framework\\src\\API.Data\\Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\C# API with DDD and Entity Core Framework\\src\\api.data\\Data.csproj": {
+    "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\C# API with DDD and Entity Core Framework\\src\\API.Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\C# API with DDD and Entity Core Framework\\src\\api.data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\C# API with DDD and Entity Core Framework\\src\\API.Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\C# API with DDD and Entity Core Framework\\src\\api.data\\Data.csproj",
+        "projectPath": "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\C# API with DDD and Entity Core Framework\\src\\API.Data\\Data.csproj",
         "packagesPath": "C:\\Users\\DheyEs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\C# API with DDD and Entity Core Framework\\src\\api.data\\obj\\",
+        "outputPath": "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\C# API with DDD and Entity Core Framework\\src\\API.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DheyEs\\AppData\\Roaming\\NuGet\\NuGet.Config",

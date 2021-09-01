@@ -10,6 +10,12 @@ namespace API.Application.Controllers
     [ApiController]
     public class UsersController : ControllerBase
     {
+        private IUserService _service;
+
+        public UsersController(IUserService service){
+            _service = service;
+        }
+
         [HttpGet]
         public async Task<ActionResult> GetAll([FromServices] IUserService service)
         {
@@ -27,5 +33,26 @@ namespace API.Application.Controllers
                 return StatusCode((int)HttpStatusCode.InternalServerError, e.Message);
             }
         }
+
+        [HttpGet]
+        [Route("{id}", Name = "GetWithId")]
+
+        public async Task<ActionResult> Get(Guid id)
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(id);
+            }
+
+            try
+            {
+                return Ok(await _service.Get(id));
+            }
+            catch(Exception e)
+            {
+                return StatusCode((int)HttpStatusCode.InternalServerError, e.Message);
+            }
+        }
+
     }
 }
