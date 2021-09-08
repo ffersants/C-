@@ -60,3 +60,7 @@ C:\Users\DheyEs\Documents\C#\Udemy\C# API with DDD and Entity Core Framework\src
 C:\Users\DheyEs\Documents\C#\Udemy\C# API with DDD and Entity Core Framework\src\API.Application\bin\Debug\net5.0\Data.pdb
 C:\Users\DheyEs\Documents\C#\Udemy\C# API with DDD and Entity Core Framework\src\API.Application\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\DheyEs\Documents\C#\Udemy\C# API with DDD and Entity Core Framework\src\API.Application\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\DheyEs\Documents\C#\Udemy\C# API with DDD and Entity Core Framework\src\API.Application\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DheyEs\Documents\C#\Udemy\C# API with DDD and Entity Core Framework\src\API.Application\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DheyEs\Documents\C#\Udemy\C# API with DDD and Entity Core Framework\src\API.Application\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DheyEs\Documents\C#\Udemy\C# API with DDD and Entity Core Framework\src\API.Application\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
