@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 
 namespace Domain.Dtos
 {
-    class LoginDto
+    public class LoginDto
     {
         [Required]
         [EmailAddress(ErrorMessage = "E-mail inválido.")]
         [StringLength(100, ErrorMessage = "O máximo para esse campo é de 100 caracteres.")]
-        public string email { get; set; }
+        public string Email { get; set; }
     }
 }

@@ -1,4 +1,5 @@
 using API.Domain.Entities;
+using Domain.Dtos;
 using Domain.Interfaces.Services.Users;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -19,7 +20,7 @@ namespace API.Application.Controllers
         }
         */
         [HttpPost]
-        public async Task<object> Login([FromBody] UserEntity userEntity, [FromServices] ILoginService service)
+        public async Task<object> Login([FromBody] LoginDto userEntity, [FromServices] ILoginService service)
         {
             if (!ModelState.IsValid)
             {

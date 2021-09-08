@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using API.CrossCutting.DependencyInjection;
 using API.Data.Context;
+using Domain.Security;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
@@ -12,6 +13,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Options;
 using Microsoft.OpenApi.Models;
 
 namespace application
@@ -34,6 +36,24 @@ namespace application
 
             ConfigureService.ConfigureDependenciesService(services);
             ConfigureRepository.ConfigureDependenciesRepository(services);
+
+            //started - configuração da autenticação
+            var signingConfigurations = new SigningConfigurations();
+            services.AddSingleton(signingConfigurations);
+
+            //configura as propriedades da classe tokenConfigurations com os valores
+            //decalarados no appsettings.json
+            var tokenConfigurations = new TokenConfiguration();
+            new ConfigureFromConfigurationOptions<TokenConfiguration>
+                (
+                    //acessa o appsettings.json
+                    Configuration.GetSection("TokenConfigurations")
+                )
+                //pega os valores da seção TokenConfigurations e configura a classe
+                .Configure(tokenConfigurations);
+
+            services.AddSingleton(tokenConfigurations);
+            //finished - configurãção da autenticação
 
             services.AddControllers();
             services.AddSwaggerGen(c =>

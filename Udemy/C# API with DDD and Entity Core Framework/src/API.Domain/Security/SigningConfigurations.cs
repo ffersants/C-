@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Domain.Security
 {
-    class SigningConfigurations
+    public class SigningConfigurations
     {
         //Esse atributo é do tipo SecurityKey, que é a classe para receber chaves de segurança
         public SecurityKey Key { get; set; }
@@ -25,8 +25,5 @@ namespace Domain.Security
             //chave e algoritmo de assinatura a ser aplicado
             SigningCredentials = new SigningCredentials(Key, SecurityAlgorithms.RsaSha256Signature);
         }
-
-
-
     }
 }
