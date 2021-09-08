@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Service.Services
 {
-    class LoginService : ILoginService
+    public class LoginService : ILoginService
     {
         private IUserRepository _repository;
 

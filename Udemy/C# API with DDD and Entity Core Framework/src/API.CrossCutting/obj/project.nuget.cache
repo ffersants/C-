@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FUME3QIZCVaV1/A7m4jzDNnp40yvqa+ahygzaZb5PHBAY96q5W/BFpFwT7TkAlL5hs3C+VBdLqH7DmvBw2Enww==",
+  "dgSpecHash": "2g6YvnjeJo5ARvuvzY1A2vTkTJGl0exTY/BPOzzzDZEbdQ5rrsj4kxN1g8SPc5ylRCYTpdNlWhHQLKEdHnSNOw==",
   "success": true,
   "projectFilePath": "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\C# API with DDD and Entity Core Framework\\src\\API.CrossCutting\\CrossCutting.csproj",
   "expectedPackageFiles": [
