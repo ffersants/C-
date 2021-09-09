@@ -19,7 +19,7 @@ namespace Domain.Security
             //initializes a class with a random key pair of the specified key size.
             using (var provider = new RSACryptoServiceProvider(2048))
             {
-                //Representa uma chave de segurança que é gerada usando o algoritmo RSA.
+                //Cria uma chave assimétrica usando o algoritmo RSA.
                 Key = new RsaSecurityKey(provider.ExportParameters(true));
             }
             //chave e algoritmo de assinatura a ser aplicado
