@@ -1,4 +1,5 @@
-﻿using System;
+﻿using LanguageExt;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Optional_object
 {
-    class Repository
+    public class Repository
     {
         private readonly IEnumerable<User> userList;
 
@@ -21,9 +22,11 @@ namespace Optional_object
             };                
         }
 
-        public User GetUserById(int id)
+        public Option<User> GetUserById(int id)
         {
-            return (User)userList.FirstOrDefault(i => i.id.Equals(id));
+            Option<User> userOrDefault = userList.Where(i => i.id.Equals(id)).SingleOrDefault();
+            return userOrDefault;
+            
         }
     }
 }

@@ -1,5 +1,7 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using LanguageExt;
+using Microsoft.EntityFrameworkCore;
 using System;
+using System.Linq;
 using System.Linq.Expressions;
 using System.Threading.Tasks;
 
@@ -14,15 +16,13 @@ namespace Optional_object
             _repository = new Repository();
         }
 
-        public void GetUserById(int id)
+        public Result<User> GetUser(int id, string nome)
         {
-            var searchResult =  _repository.GetUserById(id);
-            Console.WriteLine(searchResult);
-            var response = new Optional<User>(searchResult);
+            var result =  _repository.GetUserById(id);
 
-            Console.WriteLine(response.Value);
-
-            //Console.WriteLine(searchResult.nome);
+            return result.Match(
+                Some: (result) => new Result<User>("OK", "Usuário encontrado.", new User(id, nome)),
+                None: () => new Result<User>("Error", "Usuário NÃO encontrado.", null));
         }
     }
 }

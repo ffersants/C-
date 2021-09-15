@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DheyEs\\Documents\\C#\\Tests\\Optional object\\Optional object.csproj": {}
+    "C:\\Users\\0022985\\Documents\\Github\\CSharp\\Tests\\Optional object\\Optional object.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DheyEs\\Documents\\C#\\Tests\\Optional object\\Optional object.csproj": {
+    "C:\\Users\\0022985\\Documents\\Github\\CSharp\\Tests\\Optional object\\Optional object.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DheyEs\\Documents\\C#\\Tests\\Optional object\\Optional object.csproj",
+        "projectUniqueName": "C:\\Users\\0022985\\Documents\\Github\\CSharp\\Tests\\Optional object\\Optional object.csproj",
         "projectName": "Optional object",
-        "projectPath": "C:\\Users\\DheyEs\\Documents\\C#\\Tests\\Optional object\\Optional object.csproj",
-        "packagesPath": "C:\\Users\\DheyEs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DheyEs\\Documents\\C#\\Tests\\Optional object\\obj\\",
+        "projectPath": "C:\\Users\\0022985\\Documents\\Github\\CSharp\\Tests\\Optional object\\Optional object.csproj",
+        "packagesPath": "C:\\Users\\0022985\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\0022985\\Documents\\Github\\CSharp\\Tests\\Optional object\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DheyEs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\0022985\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,6 +40,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "LanguageExt.Core": {
+              "target": "Package",
+              "version": "[3.4.15, )"
+            },
             "Microsoft.AspNetCore.Mvc.Core": {
               "target": "Package",
               "version": "[2.2.5, )"
@@ -64,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

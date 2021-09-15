@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Optional_object
 {
-    class User
+    public class User
     {
         public readonly int id;
         public readonly string nome;

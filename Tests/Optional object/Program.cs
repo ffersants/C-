@@ -9,7 +9,7 @@ namespace Optional_object
         static void Main(string[] args)
         {
             FakeController controller = new FakeController();
-            controller.GetUserById(1423423);
+            controller.GetUser();
         }
 
        

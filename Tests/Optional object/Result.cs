@@ -10,6 +10,13 @@ namespace Optional_object
     {
         public readonly string status;
         public readonly string message;
-        public readonly T payload;
+        public readonly T? payload;
+
+        public Result(string status, string message, T? payload)
+        {
+            this.status = status;
+            this.message = message;
+            this.payload = payload;
+        }
     }
 }
