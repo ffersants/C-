@@ -7,12 +7,12 @@ namespace Result_and_API.DOMAIN.Enums
 {
     public enum ResultEnum
     {
-        Ok,
-        Invalid,
-        Unauthorized,
-        PartialOk,
-        NotFound,
-        PermissionDenied,
-        Unexpected
+        Ok = 200,
+        BadRequest = 404,
+        Unauthorized = 401,
+        Created = 201,
+        NotFound = 404,
+        Forbidden = 403,
+        Conflict = 409
     }
 }

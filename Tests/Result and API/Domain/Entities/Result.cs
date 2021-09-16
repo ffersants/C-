@@ -12,7 +12,7 @@ namespace Result_and_API.DOMAIN.Entities
         public string message { get; }
         public object payload { get; }
 
-        public Result(ResultEnum status, string message, object payload)
+        public Result(ResultEnum status, string message, object? payload)
         {
             this.status = status;
             this.message = message;

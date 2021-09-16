@@ -23,9 +23,8 @@ namespace Result_and_API.SERVICE
             var repoResult = await repository.GetById(id);
 
             return repoResult.Match(
-               Some: (repoResult) => new Result<Administrator>(ResultEnum.Ok, "Usuário encontrado.", repoResult),
-               None: () => new Result<Administrator>(ResultEnum.NotFound, "Usuário NÃO encontrado.", null));
-
+               Some: (repoResult) => new Result<Administrator>(ResultEnum.Ok, $"Usuário com ID {id} encontrado.", repoResult),
+               None: () => new Result<Administrator>(ResultEnum.NotFound, $"Não há usuário registrado com o ID {id}.", null));
         }
 
         public async Task<Result<Administrator>> FindUserByName(string name)
@@ -33,8 +32,8 @@ namespace Result_and_API.SERVICE
             var repoResult = await repository.GetByName(name);
 
             return repoResult.Match(
-               Some: (repoResult) => new Result<Administrator>(ResultEnum.Ok, "Usuário encontrado.", repoResult),
-               None: () => new Result<Administrator>(ResultEnum.NotFound, "Usuário NÃO encontrado.", null));
+               Some: (repoResult) => new Result<Administrator>(ResultEnum.Ok, $"Usuário {name} encontrado.", repoResult),
+               None: () => new Result<Administrator>(ResultEnum.NotFound, $"Usuário {name} não encontrado.", null));
         }
 
         public async Task<Result<Administrator>> GetAll()
@@ -42,8 +41,8 @@ namespace Result_and_API.SERVICE
             var repoResult = await repository.GetAll();
 
             return repoResult.Match(
-             Some: (repoResult) => new Result<Administrator>(ResultEnum.Ok, "Usuário encontrado.", repoResult),
-             None: () => new Result<Administrator>(ResultEnum.NotFound, "Usuário NÃO encontrado.", null));
+             Some: (repoResult) => new Result<Administrator>(ResultEnum.Ok, $"No total há {repoResult.Length()} registro(s) realizado(s).", repoResult),
+             None: () => new Result<Administrator>(ResultEnum.NotFound, "Não há cadastros realizados.", null));
         }
     }
 }
