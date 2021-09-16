@@ -19,9 +19,8 @@ namespace Optional_object
         public Result<User> GetUser(int id, string nome)
         {
             var result =  _repository.GetUserById(id);
-
             return result.Match(
-                Some: (result) => new Result<User>("OK", "Usuário encontrado.", new User(id, nome)),
+                Some: (result) => new Result<User>("OK", "Usuário encontrado.", result),
                 None: () => new Result<User>("Error", "Usuário NÃO encontrado.", null));
         }
     }

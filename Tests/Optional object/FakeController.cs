@@ -18,7 +18,10 @@ namespace Optional_object
 
         public void GetUser()
         {
-            var result = _service.GetUser(15623, "Fernando");
+            var result = _service.GetUser(123, "Fernando");
+
+
+
             Console.WriteLine(result.status);
             Console.WriteLine(result.message);
             Console.WriteLine($"Nome: {result.payload?.id}");

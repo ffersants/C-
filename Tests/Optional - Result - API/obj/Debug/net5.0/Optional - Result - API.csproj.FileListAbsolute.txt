@@ -1,0 +1,34 @@
+C:\Users\0022985\Documents\Github\CSharp\Tests\Optional - Result - API\obj\Debug\net5.0\Optional - Result - API.csproj.AssemblyReference.cache
+C:\Users\0022985\Documents\Github\CSharp\Tests\Optional - Result - API\obj\Debug\net5.0\Optional - Result - API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0022985\Documents\Github\CSharp\Tests\Optional - Result - API\obj\Debug\net5.0\Optional - Result - API.AssemblyInfoInputs.cache
+C:\Users\0022985\Documents\Github\CSharp\Tests\Optional - Result - API\obj\Debug\net5.0\Optional - Result - API.AssemblyInfo.cs
+C:\Users\0022985\Documents\Github\CSharp\Tests\Optional - Result - API\obj\Debug\net5.0\Optional - Result - API.csproj.CoreCompileInputs.cache
+C:\Users\0022985\Documents\Github\CSharp\Tests\Optional - Result - API\obj\Debug\net5.0\Optional - Result - API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\0022985\Documents\Github\CSharp\Tests\Optional - Result - API\obj\Debug\net5.0\Optional - Result - API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\0022985\Documents\Github\CSharp\Tests\Optional - Result - API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\0022985\Documents\Github\CSharp\Tests\Optional - Result - API\bin\Debug\net5.0\appsettings.json
+C:\Users\0022985\Documents\Github\CSharp\Tests\Optional - Result - API\bin\Debug\net5.0\Optional - Result - API.exe
+C:\Users\0022985\Documents\Github\CSharp\Tests\Optional - Result - API\bin\Debug\net5.0\Optional - Result - API.deps.json
+C:\Users\0022985\Documents\Github\CSharp\Tests\Optional - Result - API\bin\Debug\net5.0\Optional - Result - API.runtimeconfig.json
+C:\Users\0022985\Documents\Github\CSharp\Tests\Optional - Result - API\bin\Debug\net5.0\Optional - Result - API.runtimeconfig.dev.json
+C:\Users\0022985\Documents\Github\CSharp\Tests\Optional - Result - API\bin\Debug\net5.0\Optional - Result - API.dll
+C:\Users\0022985\Documents\Github\CSharp\Tests\Optional - Result - API\bin\Debug\net5.0\ref\Optional - Result - API.dll
+C:\Users\0022985\Documents\Github\CSharp\Tests\Optional - Result - API\bin\Debug\net5.0\Optional - Result - API.pdb
+C:\Users\0022985\Documents\Github\CSharp\Tests\Optional - Result - API\bin\Debug\net5.0\LanguageExt.Core.dll
+C:\Users\0022985\Documents\Github\CSharp\Tests\Optional - Result - API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\0022985\Documents\Github\CSharp\Tests\Optional - Result - API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\0022985\Documents\Github\CSharp\Tests\Optional - Result - API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\0022985\Documents\Github\CSharp\Tests\Optional - Result - API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\0022985\Documents\Github\CSharp\Tests\Optional - Result - API\obj\Debug\net5.0\staticwebassets\Optional - Result - API.StaticWebAssets.Manifest.cache
+C:\Users\0022985\Documents\Github\CSharp\Tests\Optional - Result - API\obj\Debug\net5.0\staticwebassets\Optional - Result - API.StaticWebAssets.xml
+C:\Users\0022985\Documents\Github\CSharp\Tests\Optional - Result - API\obj\Debug\net5.0\scopedcss\bundle\Optional - Result - API.styles.css
+C:\Users\0022985\Documents\Github\CSharp\Tests\Optional - Result - API\obj\Debug\net5.0\Optional - Result - API.RazorTargetAssemblyInfo.cache
+C:\Users\0022985\Documents\Github\CSharp\Tests\Optional - Result - API\obj\Debug\net5.0\Optional - Result - API.csproj.CopyComplete
+C:\Users\0022985\Documents\Github\CSharp\Tests\Optional - Result - API\obj\Debug\net5.0\Optional - Result - API.dll
+C:\Users\0022985\Documents\Github\CSharp\Tests\Optional - Result - API\obj\Debug\net5.0\ref\Optional - Result - API.dll
+C:\Users\0022985\Documents\Github\CSharp\Tests\Optional - Result - API\obj\Debug\net5.0\Optional - Result - API.pdb
+C:\Users\0022985\Documents\Github\CSharp\Tests\Optional - Result - API\obj\Debug\net5.0\Optional - Result - API.genruntimeconfig.cache
+C:\Users\0022985\Documents\Github\CSharp\Tests\Optional - Result - API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\0022985\Documents\Github\CSharp\Tests\Optional - Result - API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\0022985\Documents\Github\CSharp\Tests\Optional - Result - API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\0022985\Documents\Github\CSharp\Tests\Optional - Result - API\bin\Debug\net5.0\Newtonsoft.Json.dll

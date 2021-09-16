@@ -24,9 +24,7 @@ namespace Optional_object
 
         public Option<User> GetUserById(int id)
         {
-            Option<User> userOrDefault = userList.Where(i => i.id.Equals(id)).SingleOrDefault();
-            return userOrDefault;
-            
+            return userList.Where(i => i.id.Equals(id)).SingleOrDefault();
         }
     }
 }
