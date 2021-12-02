@@ -44,8 +44,12 @@ namespace Service.Services
             if (user != null && !string.IsNullOrWhiteSpace(user.Email))
             {
                 //a condição para login é inserir um email existente
-                baseUser = await _repository.FindByLogin(user.Email);
-                
+                //baseUser = await _repository.FindByLogin(user.Email);
+                baseUser = new UserEntity{
+                    Email = "ffersants@ok.com",
+                    Name = "Fernando",
+                    Id = new Guid()
+                };
                 if(baseUser == null)
                 {
                     return new

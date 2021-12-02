@@ -1,0 +1,16 @@
+C:\Users\DheyEs\Documents\C#\Tests\Cobaia\bin\Debug\net5.0\Cobaia.exe
+C:\Users\DheyEs\Documents\C#\Tests\Cobaia\bin\Debug\net5.0\Cobaia.deps.json
+C:\Users\DheyEs\Documents\C#\Tests\Cobaia\bin\Debug\net5.0\Cobaia.runtimeconfig.json
+C:\Users\DheyEs\Documents\C#\Tests\Cobaia\bin\Debug\net5.0\Cobaia.runtimeconfig.dev.json
+C:\Users\DheyEs\Documents\C#\Tests\Cobaia\bin\Debug\net5.0\Cobaia.dll
+C:\Users\DheyEs\Documents\C#\Tests\Cobaia\bin\Debug\net5.0\ref\Cobaia.dll
+C:\Users\DheyEs\Documents\C#\Tests\Cobaia\bin\Debug\net5.0\Cobaia.pdb
+C:\Users\DheyEs\Documents\C#\Tests\Cobaia\obj\Debug\net5.0\Cobaia.csproj.AssemblyReference.cache
+C:\Users\DheyEs\Documents\C#\Tests\Cobaia\obj\Debug\net5.0\Cobaia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DheyEs\Documents\C#\Tests\Cobaia\obj\Debug\net5.0\Cobaia.AssemblyInfoInputs.cache
+C:\Users\DheyEs\Documents\C#\Tests\Cobaia\obj\Debug\net5.0\Cobaia.AssemblyInfo.cs
+C:\Users\DheyEs\Documents\C#\Tests\Cobaia\obj\Debug\net5.0\Cobaia.csproj.CoreCompileInputs.cache
+C:\Users\DheyEs\Documents\C#\Tests\Cobaia\obj\Debug\net5.0\Cobaia.dll
+C:\Users\DheyEs\Documents\C#\Tests\Cobaia\obj\Debug\net5.0\ref\Cobaia.dll
+C:\Users\DheyEs\Documents\C#\Tests\Cobaia\obj\Debug\net5.0\Cobaia.pdb
+C:\Users\DheyEs\Documents\C#\Tests\Cobaia\obj\Debug\net5.0\Cobaia.genruntimeconfig.cache

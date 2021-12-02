@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4f4ej1M33gN8Ecxpn8fWHm5mP+NVCZ7ch/pPplg9Fj0on/AeaNQxBg02vg6J5+xFYRsxpQLbfrI/avZO3XVb8A==",
+  "dgSpecHash": "Y4oun58FpWsUYr0xCiVMDFvVRvZDGMFqr+A2Xy/mqoX5BGg6WoTtVpF8ubYqWMQLzG0rQl1bsFch5aAAZU0ZtA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\C# API with DDD and Entity Core Framework\\src\\API.CrossCutting\\CrossCutting.csproj",
+  "projectFilePath": "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\C# API with DDD and Entity Core Framework\\src\\API.Crosscutting\\CrossCutting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DheyEs\\.nuget\\packages\\automapper\\8.1.1\\automapper.8.1.1.nupkg.sha512",
     "C:\\Users\\DheyEs\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.1.1\\automapper.extensions.microsoft.dependencyinjection.6.1.1.nupkg.sha512",

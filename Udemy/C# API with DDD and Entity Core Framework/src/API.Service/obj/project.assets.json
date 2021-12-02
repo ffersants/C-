@@ -5283,8 +5283,8 @@
     },
     "Data/1.0.0": {
       "type": "project",
-      "path": "../API.Data/Data.csproj",
-      "msbuildProject": "../API.Data/Data.csproj"
+      "path": "../api.data/Data.csproj",
+      "msbuildProject": "../api.data/Data.csproj"
     },
     "Domain/1.0.0": {
       "type": "project",
@@ -5328,8 +5328,8 @@
             "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\C# API with DDD and Entity Core Framework\\src\\api.data\\Data.csproj": {
               "projectPath": "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\C# API with DDD and Entity Core Framework\\src\\api.data\\Data.csproj"
             },
-            "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\C# API with DDD and Entity Core Framework\\src\\api.domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\C# API with DDD and Entity Core Framework\\src\\api.domain\\Domain.csproj"
+            "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\C# API with DDD and Entity Core Framework\\src\\API.Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\DheyEs\\Documents\\C#\\Udemy\\C# API with DDD and Entity Core Framework\\src\\API.Domain\\Domain.csproj"
             }
           }
         }
