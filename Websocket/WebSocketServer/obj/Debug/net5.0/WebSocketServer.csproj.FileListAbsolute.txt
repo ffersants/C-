@@ -21,3 +21,5 @@ C:\Users\DheyEs\Documents\C#\Websocket\WebSocketServer\obj\Debug\net5.0\WebSocke
 C:\Users\DheyEs\Documents\C#\Websocket\WebSocketServer\obj\Debug\net5.0\ref\WebSocketServer.dll
 C:\Users\DheyEs\Documents\C#\Websocket\WebSocketServer\obj\Debug\net5.0\WebSocketServer.pdb
 C:\Users\DheyEs\Documents\C#\Websocket\WebSocketServer\obj\Debug\net5.0\WebSocketServer.genruntimeconfig.cache
+C:\Users\DheyEs\Documents\C#\Websocket\WebSocketServer\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\DheyEs\Documents\C#\Websocket\WebSocketServer\obj\Debug\net5.0\WebSocketServer.csproj.CopyComplete

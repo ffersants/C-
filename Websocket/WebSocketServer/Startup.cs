@@ -11,6 +11,7 @@ using System.Net.WebSockets;
 using Microsoft.VisualBasic;
 using System.Threading;
 using Microsoft.AspNetCore.Authentication;
+using WebSocketServer.Middleware;
 
 namespace WebSocketServer
 {
@@ -20,6 +21,7 @@ namespace WebSocketServer
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
+            services.UseWebSocketManager();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -27,46 +29,14 @@ namespace WebSocketServer
         {
             app.UseWebSockets();
             
-            app.Use(async (context, next) => {
-                //PrintRequestData(context);
-
-                if(context.WebSockets.IsWebSocketRequest)
-                {
-                    //stablish the websocket connection
-                    WebSocket webSocket = await context.WebSockets.AcceptWebSocketAsync();
-                    Console.WriteLine("Websckt connected");
-                
-                    await ReceiveMessage(webSocket, async (result, buffer) => {
-                        if(result.MessageType  == WebSocketMessageType.Text){
-                            System.Console.WriteLine("Mensagem recebida");
-                        }
-                        else if (result.MessageType == WebSocketMessageType.Close){
-                            System.Console.WriteLine("Conexão fechada");
-                        }
-                    });
-                }
-                else {
-                    //if it's not a websocket request, jump to handle the next request
-                    Console.WriteLine("It's not a request to be evaluated to websocket connectio.");
-                    await next();
-                }
-            });
+            app.UseWebSocketServer();
 
             app.Run(async (context) => {
                 await context.Response.WriteAsync("Return message");
             });
         }
 
-        public async Task ReceiveMessage(WebSocket webSocket, Action<WebSocketReceiveResult, byte[]> handleMessage){
-            var buffer = new byte[1024 * 4 ];
-
-            while(webSocket.State == WebSocketState.Open){
-                var result = await webSocket.ReceiveAsync(buffer: new ArraySegment<byte>(buffer),
-                cancellationToken: CancellationToken.None);
-
-                handleMessage(result, buffer);
-            }
-        }
+        
 
         public void PrintRequestData(HttpContext context){
             System.Console.WriteLine(context.Request.Method);
