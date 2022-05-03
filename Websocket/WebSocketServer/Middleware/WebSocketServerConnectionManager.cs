@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Concurrent;
+using System.Linq;
 using System.Net.WebSockets;
 using System.Threading.Tasks;
 
@@ -11,8 +12,10 @@ namespace WebSocketServer.Middleware{
             return _sockets;
         }
 
-        public string AddSocket(WebSocket socket){
-            string ConnID = Guid.NewGuid().ToString();
+        public string AddSocket(WebSocket socket, string ConnID)
+        {
+            //string ConnID = Guid.NewGuid().ToString();
+
             _sockets.TryAdd(ConnID, socket);
 
             Console.WriteLine("Connection added: "+ConnID);

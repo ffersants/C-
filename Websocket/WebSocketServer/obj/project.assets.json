@@ -48,19 +48,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DheyEs\\.nuget\\packages\\": {}
+    "C:\\Users\\0022985\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DheyEs\\Documents\\C#\\Websocket\\WebSocketServer\\WebSocketServer.csproj",
+      "projectUniqueName": "C:\\Users\\0022985\\Documents\\Github\\CSharp\\Websocket\\WebSocketServer\\WebSocketServer.csproj",
       "projectName": "WebSocketServer",
-      "projectPath": "C:\\Users\\DheyEs\\Documents\\C#\\Websocket\\WebSocketServer\\WebSocketServer.csproj",
-      "packagesPath": "C:\\Users\\DheyEs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DheyEs\\Documents\\C#\\Websocket\\WebSocketServer\\obj\\",
+      "projectPath": "C:\\Users\\0022985\\Documents\\Github\\CSharp\\Websocket\\WebSocketServer\\WebSocketServer.csproj",
+      "packagesPath": "C:\\Users\\0022985\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\0022985\\Documents\\Github\\CSharp\\Websocket\\WebSocketServer\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\DheyEs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\0022985\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -68,7 +72,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.pcdf.gov.br/nuget": {}
       },
       "frameworks": {
         "net5.0": {
@@ -109,7 +114,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
