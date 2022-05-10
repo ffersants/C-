@@ -8,9 +8,20 @@ namespace GraphQL_on_csharp.GraphQL
 {
     public class Query
     {
-        [UseDbContext(typeof (AppDbContext))]
-        public IQueryable<Platform> GetPlatform([ScopedService] AppDbContext context){
+        [UseDbContext(typeof(AppDbContext))]
+        [UseProjection]
+        public IQueryable<Platform> GetPlatform([ScopedService] AppDbContext context)
+        {
             return context.Platforms;
         }
+
+        [UseDbContext(typeof(AppDbContext))]
+        [UseProjection]
+
+        public IQueryable<Command> GetContext([ScopedService] AppDbContext context)
+        {
+            return context.Command;
+        }
+
     }
 }
