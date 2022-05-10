@@ -17,11 +17,9 @@ namespace GraphQL_on_csharp.GraphQL
 
         [UseDbContext(typeof(AppDbContext))]
         [UseProjection]
-
         public IQueryable<Command> GetContext([ScopedService] AppDbContext context)
         {
             return context.Command;
         }
-
     }
 }

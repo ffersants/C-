@@ -1,6 +1,7 @@
 using GraphQL.Server.Ui.Voyager;
 using GraphQL_on_csharp.Data;
 using GraphQL_on_csharp.GraphQL;
+using GraphQL_on_csharp.GraphQL.Platforms;
 using HotChocolate;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -28,6 +29,7 @@ namespace GraphQL_on_c_
 
             services
                 .AddGraphQLServer()
+                .AddType<PlatformType>()
                 .AddQueryType<Query>()
                 .AddProjections();
         }
