@@ -1,3 +1,4 @@
+using System;
 using System.Linq;
 using GraphQL_on_csharp.Data;
 using GraphQL_on_csharp.Models;
@@ -22,8 +23,8 @@ namespace GraphQL_on_csharp.GraphQL.Platforms {
         }
 
         private class Resolvers {
-            public IQueryable<Command> GetCommands(Platform platform, [ScopedService] AppDbContext context) {
-                return context.Command.Where(c => c.PlatformId == platform.Id);
+            public IQueryable<Command> GetCommands([Parent] Platform platform, [ScopedService] AppDbContext context) {
+                return context.Command.Where(p => p.PlatformId == platform.Id);
             }
         }
     }

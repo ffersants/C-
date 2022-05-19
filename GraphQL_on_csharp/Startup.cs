@@ -1,3 +1,4 @@
+using System.Data;
 using GraphQL.Server.Ui.Voyager;
 using GraphQL_on_csharp.Data;
 using GraphQL_on_csharp.GraphQL;
@@ -29,9 +30,11 @@ namespace GraphQL_on_c_
 
             services
                 .AddGraphQLServer()
-                .AddType<PlatformType>()
                 .AddQueryType<Query>()
-                .AddProjections();
+                .AddType<PlatformType>()
+                .AddType<CommandType>()
+                .AddFiltering()
+                .AddSorting();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
