@@ -21,7 +21,7 @@ namespace GraphQL_on_csharp.Data
             model.Entity<Command>()
                 .HasOne(i => i.Platform!)
                 .WithMany(i => i.Commands)
-                .HasForeignKey(i => i.Id);
+                .HasForeignKey(i => i.PlatformId);
         }
     }
 }

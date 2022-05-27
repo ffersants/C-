@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
-namespace GraphQL_on_c_.Migrations
+namespace GraphQL_on_csharp.Migrations
 {
     [DbContext(typeof(AppDbContext))]
     partial class AppDbContextModelSnapshot : ModelSnapshot
@@ -21,7 +21,9 @@ namespace GraphQL_on_c_.Migrations
             modelBuilder.Entity("GraphQL_on_csharp.Models.Command", b =>
                 {
                     b.Property<int>("Id")
-                        .HasColumnType("int");
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .UseIdentityColumn();
 
                     b.Property<string>("CommandLine")
                         .IsRequired()
@@ -35,6 +37,8 @@ namespace GraphQL_on_c_.Migrations
                         .HasColumnType("int");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("PlatformId");
 
                     b.ToTable("Command");
                 });
@@ -62,7 +66,7 @@ namespace GraphQL_on_c_.Migrations
                 {
                     b.HasOne("GraphQL_on_csharp.Models.Platform", "Platform")
                         .WithMany("Commands")
-                        .HasForeignKey("Id")
+                        .HasForeignKey("PlatformId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 

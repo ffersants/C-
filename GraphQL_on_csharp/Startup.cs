@@ -31,6 +31,7 @@ namespace GraphQL_on_c_
             services
                 .AddGraphQLServer()
                 .AddQueryType<Query>()
+                .AddMutationType<Mutation>()
                 .AddType<PlatformType>()
                 .AddType<CommandType>()
                 .AddFiltering()
