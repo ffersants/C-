@@ -16,7 +16,7 @@ namespace GraphQL_on_csharp.GraphQL.Commands
         }
         private class Resolver
         {
-            public Platform GetPlatform([Parent] Command command, [ScopedService] AppDbContext context)
+            public Subscription GetPlatform([Parent] Command command, [ScopedService] AppDbContext context)
             {
                 return context.Platforms.FirstOrDefault(p => p.Id == command.PlatformId);
             }

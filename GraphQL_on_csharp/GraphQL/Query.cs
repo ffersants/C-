@@ -11,7 +11,7 @@ namespace GraphQL_on_csharp.GraphQL
         [UseDbContext(typeof(AppDbContext))]
         [UseFiltering]
         [UseSorting]
-        public IQueryable<Platform> GetPlatform([ScopedService] AppDbContext context)
+        public IQueryable<Subscription> GetPlatform([ScopedService] AppDbContext context)
         {
             return context.Platforms;
         }

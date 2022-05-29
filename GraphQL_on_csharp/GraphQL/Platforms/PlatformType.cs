@@ -6,8 +6,8 @@ using HotChocolate;
 using HotChocolate.Types;
 
 namespace GraphQL_on_csharp.GraphQL.Platforms {
-    public class PlatformType : ObjectType<Platform> {
-        protected override void Configure(IObjectTypeDescriptor<Platform> descriptor)
+    public class PlatformType : ObjectType<Subscription> {
+        protected override void Configure(IObjectTypeDescriptor<Subscription> descriptor)
         {
             //legenda do schema
             descriptor.Description("Represents a software");
@@ -23,7 +23,7 @@ namespace GraphQL_on_csharp.GraphQL.Platforms {
         }
 
         private class Resolvers {
-            public IQueryable<Command> GetCommands([Parent] Platform platform, [ScopedService] AppDbContext context) {
+            public IQueryable<Command> GetCommands([Parent] Subscription platform, [ScopedService] AppDbContext context) {
                 return context.Command.Where(p => p.PlatformId == platform.Id);
             }
         }

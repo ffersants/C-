@@ -31,11 +31,13 @@ namespace GraphQL_on_c_
             services
                 .AddGraphQLServer()
                 .AddQueryType<Query>()
+                .AddSubscriptionType<Subscription>()
                 .AddMutationType<Mutation>()
                 .AddType<PlatformType>()
                 .AddType<CommandType>()
                 .AddFiltering()
-                .AddSorting();
+                .AddSorting()
+                .AddInMemorySubscriptions();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -45,6 +47,8 @@ namespace GraphQL_on_c_
             {
                 app.UseDeveloperExceptionPage();
             }
+
+            app.UseWebSockets();
 
             app.UseRouting();
 
